@@ -60,7 +60,8 @@ async def scrape_airtable():
 
         # get column headers
         headers = await page.eval_on_selector_all(
-            "div.readonly.gridHeaderCellPhosphorIcons",
+            "div.readonly.gridHeaderCellPhosphorIcons", # error here
+            # <div class="headerRightPane pane">
             "nodes => nodes.map(n => n.innerText.trim())"
         )
 
