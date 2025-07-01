@@ -1,0 +1,1190 @@
+Company,Location HQ,# Laid off,%,Industry,Stage,$ Raised (mm),Date,layoffs_value,is_percent
+Nexar,New York City,25,,Transportation,Series D,$149,11/30/2022,25,0
+Grin,Sacramento,60,13%,Marketing,Series B,$145,11/30/2022,13,1
+Wonder,New York City,130,7%,Food,Series B,$850,11/30/2022,7,1
+Happy Money,Los Angeles,158,34%,Finance,Series D,$191,11/30/2022,34,1
+Kraken,SF Bay Area,1100,30%,Crypto,Unknown,$134,11/30/2022,30,1
+DoorDash,SF Bay Area,1250,6%,Food,Post-IPO,"$2,500",11/30/2022,6,1
+Elastic,SF Bay Area,,13%,Data,Post-IPO,$162,11/30/2022,13,1
+Sana,Seattle,,15%,Healthcare,Series A,$700,11/30/2022,15,1
+Springbig,Miami,37,23%,Sales,Post-IPO,$32,12/1/2022,23,1
+Netlify,SF Bay Area,48,16%,Product,Series D,$212,12/1/2022,16,1
+BloomTech,SF Bay Area,88,50%,Education,Unknown,,12/1/2022,50,1
+Bizzabo,New York City,100,37%,Marketing,Series E,$194,12/1/2022,37,1
+Podium,Lehi,,12%,Support,Series D,$419,12/1/2022,12,1
+SQZ Biotech,Boston,,60%,Healthcare,Post-IPO,$229,12/1/2022,60,1
+Strava,SF Bay Area,,14%,Fitness,Series F,$151,12/1/2022,14,1
+Synlogic,Boston,,25%,Healthcare,Post-IPO,$321,12/1/2022,25,1
+Polly,Burlington,47,15%,Finance,Series C,$184,12/2/2022,15,1
+Lora DiCarlo,Bend,,100%,Consumer,Unknown,$9,12/2/2022,100,1
+Aqua Security,Boston,65,10%,Security,Series E,$265,12/5/2022,10,1
+Stash,New York City,32,8%,Finance,Unknown,$480,12/6/2022,8,1
+Chipper Cash,SF Bay Area,50,13%,Finance,Series C,$302,12/6/2022,13,1
+Adobe,SF Bay Area,100,,Marketing,Post-IPO,$2,12/6/2022,100,0
+Weedmaps,Los Angeles,175,25%,Other,Acquired,,12/6/2022,25,1
+BuzzFeed,New York City,180,12%,Media,Post-IPO,$696,12/6/2022,12,1
+Intel,SF Bay Area,201,,Hardware,Post-IPO,$12,12/6/2022,201,0
+Doma,SF Bay Area,515,40%,Finance,Post-IPO,$679,12/6/2022,40,1
+Nextiva,Phoenix,,17%,Other,Private Equity,$200,12/6/2022,17,1
+OneStudyTeam,Boston,,25%,Healthcare,Series D,$479,12/6/2022,25,1
+Zuora,SF Bay Area,,11%,Finance,Post-IPO,$647,12/6/2022,11,1
+Lithic,New York City,27,18%,Finance,Series C,$115,12/7/2022,18,1
+Lev,New York City,30,30%,Real Estate,Series B,$114,12/7/2022,30,1
+Grover,"Berlin,Non-U.S.",40,10%,Retail,Unknown,"$2,300",12/7/2022,10,1
+Houzz,SF Bay Area,95,8%,Consumer,Series E,$613,12/7/2022,8,1
+Integral Ad Science,New York City,120,13%,Marketing,Acquired,$116,12/7/2022,13,1
+Voi,"Stockholm,Non-U.S.",130,13%,Transportation,Series D,$515,12/7/2022,13,1
+Relativity,Chicago,150,10%,Legal,Private Equity,$125,12/7/2022,10,1
+Recur Forever,Miami,235,,Crypto,Series A,$55,12/7/2022,235,0
+Motive,SF Bay Area,237,6%,Transportation,Series F,$567,12/7/2022,6,1
+Plaid,SF Bay Area,260,20%,Finance,Series D,$734,12/7/2022,20,1
+CircleCI,SF Bay Area,,17%,Product,Series F,$315,12/7/2022,17,1
+Armis,SF Bay Area,25,4%,Security,Private Equity,$537,12/8/2022,4,1
+CyCognito,SF Bay Area,30,15%,Security,Series C,$153,12/8/2022,15,1
+Inscripta,Boulder,43,,Healthcare,Series E,$459,12/8/2022,43,0
+TechTarget,Boston,60,5%,Marketing,Post-IPO,$115,12/8/2022,5,1
+BlackLine,Los Angeles,95,5%,Finance,Private Equity,$220,12/8/2022,5,1
+Airtable,SF Bay Area,254,20%,Product,Series F,"$1,400",12/8/2022,20,1
+Bakkt,Atlanta,,15%,Crypto,Post-IPO,$932,12/8/2022,15,1
+Blue Apron,New York City,,10%,Food,Post-IPO,$352,12/8/2022,10,1
+Nerdy,St. Louis,,17%,Education,Post-IPO,$150,12/8/2022,17,1
+Vanta,SF Bay Area,,14%,Security,Series B,$203,12/8/2022,14,1
+C2FO,Kansas City,20,2%,Finance,Series H,$537,12/9/2022,2,1
+ZenLedger,Seattle,,10%,Crypto,Series B,$25,12/9/2022,10,1
+Outschool,SF Bay Area,43,25%,Education,Series D,$240,12/10/2022,25,1
+Balto,St. Louis,35,,Sales,Series B,$51,12/12/2022,35,0
+Freshly,Phoenix,329,,Food,Acquired,$107,12/12/2022,329,0
+Viant,Los Angeles,46,13%,Marketing,Post-IPO,,12/13/2022,13,1
+Komodo Health,SF Bay Area,78,9%,Healthcare,Series E,$514,12/13/2022,9,1
+Edgio,Phoenix,95,10%,Infrastructure,Post-IPO,$462,12/13/2022,10,1
+Thumbtack,SF Bay Area,160,14%,Consumer,Series I,$698,12/13/2022,14,1
+ChowNow,Los Angeles,40,10%,Food,Series C,$64,12/14/2022,10,1
+Headspace,Los Angeles,50,4%,Healthcare,Unknown,$215,12/14/2022,4,1
+Quanergy Systems,SF Bay Area,72,,Transportation,Post-IPO,$175,12/14/2022,72,0
+Workmotion,"Berlin,Non-U.S.",60,20%,HR,Series B,$76,12/15/2022,20,1
+LeafLink,New York City,80,31%,Other,Series C,$379,12/15/2022,31,1
+Freshworks,SF Bay Area,90,2%,Support,Post-IPO,$484,12/15/2022,2,1
+BigCommerce,Austin,180,13%,Retail,Post-IPO,$224,12/15/2022,13,1
+Modern Treasury,SF Bay Area,,18%,Finance,Series C,$183,12/16/2022,18,1
+SonderMind,Denver,,15%,Healthcare,Series C,$183,12/16/2022,15,1
+Homebot,Denver,18,13%,Real Estate,Acquired,$4,12/19/2022,13,1
+TuSimple,San Diego,350,25%,Transportation,Post-IPO,$648,12/21/2022,25,1
+Qualcomm,San Diego,153,,Hardware,Post-IPO,,12/22/2022,153,0
+Ezoic,San Diego,35,,Infrastructure,Series A,$39,12/31/2022,35,0
+Micron,Boise,4800,10%,Hardware,Post-IPO,$50,1/1/2023,10,1
+Amdocs,St. Louis,700,3%,Support,Post-IPO,,1/2/2023,3,1
+Uniphore,SF Bay Area,76,10%,Support,Series E,$620,1/3/2023,10,1
+Pegasystems,Boston,245,4%,HR,Post-IPO,,1/3/2023,4,1
+Augury,New York City,20,5%,Manufacturing,Series E,$274,1/4/2023,5,1
+Kaltura,New York City,75,11%,Media,Post-IPO,$166,1/4/2023,11,1
+Astronomer,Cincinnati,76,20%,Data,Series C,$282,1/4/2023,20,1
+Amazon,Seattle,8000,2%,Retail,Post-IPO,$108,1/4/2023,2,1
+Salesforce,SF Bay Area,8000,10%,Sales,Post-IPO,$65,1/4/2023,10,1
+Butterfly Network,Boston,,25%,Healthcare,Post-IPO,$530,1/4/2023,25,1
+Vimeo,New York City,,11%,Consumer,Post-IPO,$450,1/4/2023,11,1
+Wyre,SF Bay Area,,100%,Crypto,Unknown,$29,1/4/2023,100,1
+Everlane,SF Bay Area,30,17%,Retail,Unknown,$176,1/5/2023,17,1
+Personetics,New York City,30,8%,Support,Private Equity,$178,1/5/2023,8,1
+Twitter,SF Bay Area,40,,Consumer,Post-IPO,"$12,900",1/5/2023,40,0
+Genesis,New York City,60,30%,Crypto,Series A,,1/5/2023,30,1
+Socure,Reno,104,19%,Finance,Series E,$646,1/5/2023,19,1
+SoundHound,SF Bay Area,200,50%,Other,Post-IPO,$326,1/5/2023,50,1
+Cue,San Diego,388,,Healthcare,Post-IPO,$999,1/5/2023,388,0
+Attentive,New York City,,15%,Marketing,Series E,$863,1/5/2023,15,1
+Stitch Fix,SF Bay Area,,20%,Retail,Post-IPO,$79,1/5/2023,20,1
+TCR2,Boston,,40%,Healthcare,Post-IPO,$173,1/5/2023,40,1
+Carbon Health,SF Bay Area,200,,Healthcare,Series D,$522,1/6/2023,200,0
+Lantern,Grand Rapids,,100%,Retail,Seed,$40,1/6/2023,100,1
+Mojo Vision,SF Bay Area,,75%,Hardware,Series B,$204,1/6/2023,75,1
+SuperRare,Wilmington,,30%,Crypto,Series A,$9,1/6/2023,30,1
+WalkMe,SF Bay Area,43,3%,Other,Post-IPO,$307,1/8/2023,3,1
+Fate Therapeutics,San Diego,315,57%,Healthcare,Post-IPO,"$1,200",1/9/2023,57,1
+Editas Medicine,Boston,,20%,Healthcare,Post-IPO,$656,1/9/2023,20,1
+Scale AI,SF Bay Area,,20%,Data,Series E,$602,1/9/2023,20,1
+Cart.com,Austin,25,4%,Retail,Unknown,$383,1/10/2023,4,1
+Parler,Nashville,60,75%,Consumer,Series B,$36,1/10/2023,75,1
+ConsenSys,New York City,100,11%,Crypto,Series D,$726,1/10/2023,11,1
+ForeScout,"Tel Aviv,Non-U.S.",100,10%,Security,Acquired,$125,1/10/2023,10,1
+Blend,SF Bay Area,340,28%,Finance,Post-IPO,$665,1/10/2023,28,1
+Informatica,SF Bay Area,450,7%,Data,Post-IPO,,1/10/2023,7,1
+Coinbase,SF Bay Area,950,20%,Crypto,Post-IPO,$549,1/10/2023,20,1
+Beamery,"London,Non-U.S.",,12%,HR,Series D,$223,1/10/2023,12,1
+Citrix,Miami,,15%,Infrastructure,Acquired,$20,1/10/2023,15,1
+Esper,Seattle,,21%,Other,Series A,$10,1/10/2023,21,1
+WHOOP,Boston,,4%,Fitness,Series F,$404,1/10/2023,4,1
+Citizen,New York City,33,,Consumer,Series C,$133,1/11/2023,33,0
+Intrinsic,SF Bay Area,40,20%,Other,Acquired,,1/11/2023,20,1
+Embark Vet,Boston,41,,Healthcare,Series B,$94,1/11/2023,41,0
+HashiCorp,SF Bay Area,69,,Security,Post-IPO,$349,1/11/2023,69,0
+Jumio,SF Bay Area,100,6%,Security,Private Equity,$205,1/11/2023,6,1
+Tipalti,SF Bay Area,123,11%,Finance,Series F,$565,1/11/2023,11,1
+Verily,SF Bay Area,250,15%,Healthcare,,"$3,500",1/11/2023,15,1
+Qualtrics,Salt Lake City,270,5%,Other,Post-IPO,$400,1/11/2023,5,1
+Flexport,SF Bay Area,640,20%,Logistics,Series E,"$2,400",1/11/2023,20,1
+Carta,SF Bay Area,,10%,HR,Series G,"$1,100",1/11/2023,10,1
+Limeade,Seattle,,15%,HR,Series C,$33,1/11/2023,15,1
+Career Karma,SF Bay Area,22,,Education,Series B,$51,1/12/2023,22,0
+Akili Labs,Boston,46,30%,Healthcare,Post-IPO,$301,1/12/2023,30,1
+Definitive Healthcare,Boston,55,6%,Healthcare,Post-IPO,,1/12/2023,6,1
+Mapbox,Washington D.C.,64,,Data,Unknown,$334,1/12/2023,64,0
+Greenlight,Atlanta,104,21%,Finance,Series D,$556,1/12/2023,21,1
+Lattice,SF Bay Area,105,15%,HR,Series F,$328,1/12/2023,15,1
+SmartNews,"Tokyo,Non-U.S.",120,40%,Media,Series F,$410,1/12/2023,40,1
+Lending Club,SF Bay Area,225,14%,Finance,Post-IPO,$392,1/12/2023,14,1
+Crypto.com,"Singapore,Non-U.S.",,20%,Crypto,Unknown,,1/12/2023,20,1
+Life360,SF Bay Area,,14%,Consumer,Post-IPO,$158,1/12/2023,14,1
+Rock Content,Miami,,15%,Marketing,Series B,$34,1/12/2023,15,1
+Vial,SF Bay Area,40,,Healthcare,Series B,$101,1/13/2023,40,0
+Bonterra,Austin,140,10%,Other,Unknown,,1/13/2023,10,1
+Arch Oncology,Brisbane,,100%,Healthcare,Series C,$155,1/13/2023,100,1
+Jellyfish,Boston,,9%,Product,Series C,$114,1/13/2023,9,1
+Snappy,New York City,100,30%,Marketing,Series C,$104,1/15/2023,30,1
+RingCentral,SF Bay Area,30,,Other,Post-IPO,$44,1/17/2023,30,0
+Luxury Presence,Los Angeles,44,,Real Estate,Series B,$31,1/17/2023,44,0
+American Robotics,Boston,50,65%,Other,Acquired,$92,1/17/2023,65,1
+Unity,SF Bay Area,284,3%,Other,Post-IPO,"$1,300",1/17/2023,3,1
+LiveVox,SF Bay Area,,16%,Support,Post-IPO,$12,1/17/2023,16,1
+Addepar,SF Bay Area,20,3%,Finance,Series F,$491,1/18/2023,3,1
+Jumpcloud,Boulder,100,12%,Security,Series F,$416,1/18/2023,12,1
+nCino,Wilmington,100,7%,Finance,Post-IPO,"$1,100",1/18/2023,7,1
+Starry,Boston,100,24%,Other,Post-IPO,$260,1/18/2023,24,1
+Inspirato,Denver,109,12%,Travel,Post-IPO,$179,1/18/2023,12,1
+8x8,SF Bay Area,155,7%,Support,Post-IPO,$253,1/18/2023,7,1
+Vroom,New York City,275,20%,Transportation,Post-IPO,"$1,300",1/18/2023,20,1
+Teladoc Health,New York City,300,6%,Healthcare,Post-IPO,$172,1/18/2023,6,1
+Sophos,"Oxford,Non-U.S.",450,10%,Security,Acquired,$125,1/18/2023,10,1
+Microsoft,Seattle,10000,5%,Other,Post-IPO,$1,1/18/2023,5,1
+80 Acres Farms,Cincinnati,,10%,Food,Unknown,$275,1/18/2023,10,1
+Bally's Interactive,Providence,,15%,Consumer,Post-IPO,$946,1/18/2023,15,1
+Lucid Diagnostics,New York City,,20%,Healthcare,Post-IPO,,1/18/2023,20,1
+Hydrow,Boston,30,,Fitness,Series D,$269,1/19/2023,30,0
+Riot Games,Los Angeles,46,,Consumer,Acquired,$21,1/19/2023,46,0
+CS Disco,Austin,62,9%,Legal,Post-IPO,$233,1/19/2023,9,1
+Saks.com,New York City,100,5%,Retail,Unknown,$965,1/19/2023,5,1
+Hubilo,SF Bay Area,115,35%,Other,Series B,$153,1/19/2023,35,1
+Proterra,SF Bay Area,300,,Transportation,Post-IPO,"$1,200",1/19/2023,300,0
+WeWork,New York City,300,,Real Estate,Post-IPO,"$22,200",1/19/2023,300,0
+Capital One,Washington D.C.,1100,,Finance,Post-IPO,,1/19/2023,1100,0
+Earth Rides,Nashville,,100%,Transportation,Unknown,$2,1/19/2023,100,1
+Magnite,Los Angeles,,6%,Marketing,Post-IPO,$400,1/19/2023,6,1
+Mudafy,"Mexico City,Non-U.S.",,70%,Real Estate,Series A,$13,1/19/2023,70,1
+Personalis,SF Bay Area,,30%,Healthcare,Post-IPO,$225,1/19/2023,30,1
+Prisma,SF Bay Area,,28%,Data,Series B,$56,1/19/2023,28,1
+Citrine Informatics,SF Bay Area,22,27%,Data,Series C,$64,1/20/2023,27,1
+Edifecs,Seattle,30,,Healthcare,Unknown,$1,1/20/2023,30,0
+Karat,Seattle,47,,HR,Unknown,$169,1/20/2023,47,0
+BitTorrent,SF Bay Area,92,,Infrastructure,Acquired,,1/20/2023,92,0
+Vox Media,Washington D.C.,130,7%,Media,Series F,$307,1/20/2023,7,1
+Wayfair,Boston,1750,10%,Retail,Post-IPO,"$1,700",1/20/2023,10,1
+Google,SF Bay Area,12000,6%,Consumer,Post-IPO,$26,1/20/2023,6,1
+Cyteir Therapeutics,Boston,,70%,Healthcare,Series C,$156,1/20/2023,70,1
+Namogoo,"Tel Aviv,Non-U.S.",20,15%,Marketing,Series C,$69,1/23/2023,15,1
+Ermetic,SF Bay Area,30,17%,Security,Series B,$97,1/23/2023,17,1
+Innovid,New York City,40,10%,Marketing,Post-IPO,$295,1/23/2023,10,1
+Uber Freight,SF Bay Area,150,3%,Logistics,Subsidiary,"$2,700",1/23/2023,3,1
+Gemini,New York City,,10%,Crypto,Unknown,$423,1/23/2023,10,1
+Yext,New York City,,8%,Marketing,Post-IPO,$117,1/23/2023,8,1
+OFFOR Health,Columbus,16,,Healthcare,Series A,$14,1/24/2023,16,0
+Bolt,SF Bay Area,50,10%,Finance,Series E,"$1,300",1/24/2023,10,1
+Innovaccer,SF Bay Area,245,15%,Healthcare,Series E,$379,1/24/2023,15,1
+Vacasa,Portland,1300,17%,Travel,Post-IPO,$834,1/24/2023,17,1
+Corvus Insurance,Boston,,14%,Finance,Series C,$160,1/24/2023,14,1
+PagerDuty,SF Bay Area,,7%,Product,Post-IPO,$173,1/24/2023,7,1
+Guardant Health,SF Bay Area,130,7%,Healthcare,Post-IPO,$550,1/25/2023,7,1
+SirionLabs,Seattle,130,15%,Legal,Series D,$171,1/25/2023,15,1
+Clear Capital,Reno,250,25%,Real Estate,Unknown,,1/25/2023,25,1
+Shutterfly,SF Bay Area,360,,Retail,Acquired,$50,1/25/2023,360,0
+Lam Research,SF Bay Area,1300,7%,Hardware,Post-IPO,,1/25/2023,7,1
+IBM,New York City,3900,2%,Hardware,Post-IPO,,1/25/2023,2,1
+Confluent,SF Bay Area,221,8%,Data,Post-IPO,$455,1/26/2023,8,1
+DriveWealth,Jersey City,,20%,Finance,Series D,$550,1/26/2023,20,1
+Plus One Robotics,San Antonio,,10%,Other,Series B,$43,1/26/2023,10,1
+Ruggable,Los Angeles,100,,Retail,Seed,,1/27/2023,100,0
+Synopsys,SF Bay Area,100,,Other,Post-IPO,,1/27/2023,100,0
+CoinTracker,SF Bay Area,19,,Crypto,Series A,$101,1/28/2023,19,0
+Impossible Foods copy,SF Bay Area,140,20%,Food,Series H,"$1,900",1/30/2023,20,1
+Intel,SF Bay Area,343,,Hardware,Post-IPO,$12,1/30/2023,343,0
+Groupon,Chicago,500,,Retail,Post-IPO,"$1,400",1/30/2023,500,0
+BM Technologies,Philadelphia,,25%,Finance,Post-IPO,,1/30/2023,25,1
+Prime Trust,Las Vegas,,33%,Crypto,Series B,$176,1/30/2023,33,1
+Quantum SI,New Haven,,12%,Healthcare,Post-IPO,$425,1/30/2023,12,1
+Tilting Point,New York City,60,14%,Consumer,Unknown,$235,1/31/2023,14,1
+Wish,SF Bay Area,150,17%,Retail,Post-IPO,"$1,600",1/31/2023,17,1
+Upstart,SF Bay Area,365,20%,Finance,Post-IPO,$144,1/31/2023,20,1
+HubSpot,Boston,500,7%,Marketing,Post-IPO,$100,1/31/2023,7,1
+Workday,SF Bay Area,525,3%,HR,Post-IPO,$230,1/31/2023,3,1
+NetApp,SF Bay Area,960,8%,Data,Post-IPO,,1/31/2023,8,1
+PayPal,SF Bay Area,2000,7%,Finance,Post-IPO,$216,1/31/2023,7,1
+National Instruments,Austin,,4%,Hardware,Post-IPO,,1/31/2023,4,1
+TheSkimm,New York City,17,10%,Media,Series C,$28,2/1/2023,10,1
+Exterro,Portland,24,3%,Legal,Private Equity,$100,2/1/2023,3,1
+Appgate,Miami,34,8%,Security,Post-IPO,,2/1/2023,8,1
+Chainalysis,New York City,44,5%,Crypto,Series F,$536,2/1/2023,5,1
+Wheel,Austin,56,28%,Healthcare,Series C,$215,2/1/2023,28,1
+Workato,SF Bay Area,90,10%,Other,Series E,$415,2/1/2023,10,1
+Cyren,Washington D.C.,121,,Security,Post-IPO,$161,2/1/2023,121,0
+DraftKings,Boston,140,4%,Consumer,Post-IPO,$719,2/1/2023,4,1
+Pinterest,SF Bay Area,150,,Consumer,Post-IPO,"$1,500",2/1/2023,150,0
+Splunk,SF Bay Area,325,4%,Data,Post-IPO,"$2,400",2/1/2023,4,1
+Bustle Digital Group,New York City,,8%,Media,Series E,$80,2/1/2023,8,1
+Frequency Therapeutics,Boston,,50%,Healthcare,Post-IPO,$76,2/1/2023,50,1
+Match Group,New York City,,8%,Consumer,Post-IPO,,2/1/2023,8,1
+Rivian,Detroit,,6%,Transportation,Post-IPO,"$10,700",2/1/2023,6,1
+Articulate,New York City,38,,Education,Series A,"$1,500",2/2/2023,38,0
+Snowplow,"London,Non-U.S.",40,,Data,Series B,$55,2/2/2023,40,0
+Bittrex,Seattle,80,,Crypto,Unknown,,2/2/2023,80,0
+Getir,New York City,100,,Food,Series E,"$1,800",2/2/2023,100,0
+Highspot,Seattle,100,10%,Sales,Series F,$644,2/2/2023,10,1
+Miro,SF Bay Area,119,7%,Other,Series C,$476,2/2/2023,7,1
+Mindstrong,SF Bay Area,127,,Healthcare,Series C,$160,2/2/2023,127,0
+Autodesk,SF Bay Area,250,2%,Other,Post-IPO,,2/2/2023,2,1
+Okta,SF Bay Area,300,5%,Security,Post-IPO,"$1,200",2/2/2023,5,1
+Getaround,SF Bay Area,,10%,Transportation,Post-IPO,$948,2/2/2023,10,1
+Protocol Labs,SF Bay Area,89,20%,Crypto,Unknown,$10,2/3/2023,20,1
+Eightfold AI,SF Bay Area,90,15%,HR,Series E,$396,2/3/2023,15,1
+Built Technologies copy,Nashville,,8%,Construction,Unknown,$313,2/3/2023,8,1
+Kyruus,Boston,70,,Healthcare,Unknown,$183,2/5/2023,70,0
+Clari,SF Bay Area,20,,Sales,Series F,$496,2/6/2023,20,0
+Drift,Boston,59,,Marketing,Acquired,$107,2/6/2023,59,0
+VinFast US,Los Angeles,80,,Transportation,Subsidiary,,2/6/2023,80,0
+Dell,Austin,6650,5%,Hardware,Post-IPO,,2/6/2023,5,1
+Salesloft,Atlanta,100,10%,Sales,Acquired,$245,2/7/2023,10,1
+SecureWorks,Atlanta,212,9%,Security,Post-IPO,$83,2/7/2023,9,1
+eBay,SF Bay Area,500,4%,Retail,Post-IPO,"$1,200",2/7/2023,4,1
+Zoom,SF Bay Area,1300,15%,Other,Post-IPO,$276,2/7/2023,15,1
+Sana Benefits,Austin,,19%,HR,Series B,$106,2/7/2023,19,1
+Equitybee,SF Bay Area,24,25%,Finance,Series B,$85,2/8/2023,25,1
+Beam Benefits,Columbus,31,8%,Healthcare,Series E,$168,2/8/2023,8,1
+Gong,SF Bay Area,80,7%,Sales,Series E,$583,2/8/2023,7,1
+Gusto,SF Bay Area,126,5%,HR,Series E,$746,2/8/2023,5,1
+Affirm,SF Bay Area,500,19%,Finance,Post-IPO,"$1,500",2/8/2023,19,1
+GoDaddy,Phoenix,530,8%,Marketing,Post-IPO,$800,2/8/2023,8,1
+Medly,New York City,,100%,Healthcare,Series C,$100,2/8/2023,100,1
+Bark,New York City,126,12%,Retail,Post-IPO,,2/9/2023,12,1
+GitLab,SF Bay Area,130,7%,Product,Post-IPO,$413,2/9/2023,7,1
+Oportun,SF Bay Area,155,10%,Finance,Post-IPO,$566,2/9/2023,10,1
+Olive AI,Columbus,215,35%,Healthcare,Series H,$856,2/9/2023,35,1
+Misfits Market,Philadelphia,649,33%,Food,Series C,$526,2/9/2023,33,1
+Yahoo,SF Bay Area,1600,20%,Consumer,Acquired,$6,2/9/2023,20,1
+GitHub,SF Bay Area,,10%,Product,Acquired,$350,2/9/2023,10,1
+TripleLift,New York City,100,20%,Marketing,Acquired,$16,2/10/2023,20,1
+Rigetti Computing,SF Bay Area,,28%,Hardware,Post-IPO,$298,2/10/2023,28,1
+Magic Eden,SF Bay Area,22,,Crypto,Series B,$170,2/13/2023,22,0
+Collective Health,SF Bay Area,54,,Healthcare,Series F,$719,2/13/2023,54,0
+iRobot,Boston,85,7%,Consumer,Acquired,$30,2/13/2023,7,1
+EMX Digital,New York City,100,100%,Marketing,Unknown,,2/13/2023,100,1
+Electric,New York City,141,25%,Other,Series D,$212,2/13/2023,25,1
+Twilio,SF Bay Area,1500,17%,Other,Post-IPO,$614,2/13/2023,17,1
+CommerceHub,Albany,371,31%,Retail,Acquired,,2/14/2023,31,1
+Blackbaud,Charleston,500,14%,Other,Post-IPO,,2/14/2023,14,1
+HackerEarth,SF Bay Area,,8%,HR,Series B,$11,2/14/2023,8,1
+Udemy,SF Bay Area,,10%,Education,Post-IPO,$311,2/14/2023,10,1
+Betterment,New York City,28,,Finance,Series F,$435,2/15/2023,28,0
+Sprinklr,New York City,100,4%,Support,Post-IPO,$429,2/15/2023,4,1
+DigitalOcean,New York City,200,11%,Infrastructure,Post-IPO,$491,2/15/2023,11,1
+ServiceTitan,Los Angeles,221,8%,Sales,Series G,"$1,100",2/15/2023,8,1
+Tackle,Boise,,15%,Other,Series C,$148,2/15/2023,15,1
+Vicarious Surgical,Boston,,14%,Healthcare,Post-IPO,$185,2/15/2023,14,1
+Smartsheet,Seattle,85,3%,Other,Post-IPO,$152,2/16/2023,3,1
+The RealReal,SF Bay Area,230,7%,Retail,Post-IPO,$356,2/16/2023,7,1
+Pico Interactive,SF Bay Area,400,20%,Other,Acquired,$62,2/16/2023,20,1
+DocuSign,SF Bay Area,680,10%,Sales,Post-IPO,$536,2/16/2023,10,1
+Chipper Cash,SF Bay Area,100,33%,Finance,Series C,$302,2/17/2023,33,1
+Evernote,SF Bay Area,129,,Consumer,Acquired,$290,2/17/2023,129,0
+Micron,Boise,2400,5%,Hardware,Post-IPO,$50,2/17/2023,5,1
+Fireblocks,New York City,30,5%,Crypto,Series E,"$1,000",2/20/2023,5,1
+Fipola,"Chennai,Non-U.S.",,100%,Food,Series A,$9,2/20/2023,100,1
+Basis Technologies,Chicago,40,4%,Marketing,Series B,$52,2/21/2023,4,1
+Ethos Life,SF Bay Area,50,,Finance,Series D,$406,2/21/2023,50,0
+TaskUs,San Antonio,186,,Support,Post-IPO,$279,2/22/2023,186,0
+Jounce Therapeutics,Boston,,57%,Healthcare,Acquired,$194,2/22/2023,57,1
+Locomation,Pittsburgh,,100%,Transportation,Seed,$57,2/22/2023,100,1
+EVgo,Los Angeles,40,,Transportation,Post-IPO,$400,2/23/2023,40,0
+StrongDM,SF Bay Area,40,,Infrastructure,Series B,$76,2/23/2023,40,0
+Merative,Ann Arbor,200,10%,Healthcare,Acquired,,2/23/2023,10,1
+Dapper Labs,"Vancouver,Non-U.S.",,20%,Crypto,Series D,$607,2/23/2023,20,1
+Messari,New York City,,15%,Crypto,Series B,$61,2/23/2023,15,1
+Vibrent Health,Washington D.C.,,13%,Healthcare,Unknown,,2/23/2023,13,1
+Stax,Orlando,24,,Finance,Series D,$263,2/24/2023,24,0
+Lucira Health,SF Bay Area,26,,Healthcare,Post-IPO,$132,2/24/2023,26,0
+Eat Just,SF Bay Area,40,,Food,Unknown,$465,2/24/2023,40,0
+Medallia,SF Bay Area,59,,Support,Acquired,$325,2/24/2023,59,0
+Velodyne Lidar,SF Bay Area,220,,Transportation,Acquired,$575,2/24/2023,220,0
+EQRx,Boston,,18%,Healthcare,Post-IPO,"$1,900",2/24/2023,18,1
+Poshmark,SF Bay Area,,2%,Retail,Acquired,$153,2/24/2023,2,1
+Twitter,SF Bay Area,200,10%,Consumer,Post-IPO,"$12,900",2/25/2023,10,1
+Stytch,SF Bay Area,19,25%,Security,Series B,$126,2/27/2023,25,1
+Outreach,Seattle,70,7%,Sales,Series G,$489,2/27/2023,7,1
+Palantir,Denver,75,2%,Data,Post-IPO,"$3,000",2/27/2023,2,1
+Amount,Chicago,130,25%,Finance,Unknown,$283,2/27/2023,25,1
+Cerebral,SF Bay Area,285,15%,Healthcare,Series C,$462,2/27/2023,15,1
+Ezoic,San Diego,10,,Infrastructure,Series A,$39,2/28/2023,10,0
+Eventbrite,SF Bay Area,80,8%,Consumer,Post-IPO,$557,2/28/2023,8,1
+Electronic Arts,Baton Rouge,200,,Consumer,Post-IPO,$2,2/28/2023,200,0
+MeridianLink,Los Angeles,,9%,Finance,Post-IPO,$485,2/28/2023,9,1
+Sonder,SF Bay Area,100,14%,Travel,Post-IPO,$839,3/1/2023,14,1
+Yellow.ai,SF Bay Area,200,,Support,Series C,$102,3/1/2023,200,0
+Waymo,SF Bay Area,209,8%,Transportation,Subsidiary,"$5,500",3/1/2023,8,1
+Color Health,SF Bay Area,300,,Healthcare,Series E,$482,3/1/2023,300,0
+Thoughtworks,Chicago,500,4%,Other,Post-IPO,$748,3/1/2023,4,1
+Protego Trust Bank,Seattle,,50%,Crypto,Series A,$70,3/1/2023,50,1
+CNET,SF Bay Area,12,10%,Media,Acquired,$20,3/2/2023,10,1
+MasterClass,SF Bay Area,79,,Education,Series E,$461,3/2/2023,79,0
+Zscaler,SF Bay Area,177,3%,Security,Post-IPO,$148,3/2/2023,3,1
+Kandela,Los Angeles,,100%,Consumer,Acquired,,3/2/2023,100,1
+Airbnb,SF Bay Area,30,,Travel,Post-IPO,"$6,400",3/3/2023,30,0
+UserTesting,SF Bay Area,63,,Marketing,Acquired,$152,3/3/2023,63,0
+Embark Trucks,SF Bay Area,230,70%,Transportation,Post-IPO,$317,3/3/2023,70,1
+UKG,Miami,265,,HR,Unknown,,3/6/2023,265,0
+SiriusXM,New York City,475,8%,Media,Post-IPO,$525,3/6/2023,8,1
+Zwift,Los Angeles,80,15%,Fitness,Series C,$619,3/7/2023,15,1
+Catch,New York City,,100%,Finance,Series A,$18,3/7/2023,100,1
+Appcues,Boston,,15%,Data,Series B,$52,3/8/2023,15,1
+Morning Brew,New York City,40,,Media,Acquired,,3/9/2023,40,0
+Gopuff,Philadelphia,100,2%,Food,Series H,"$3,400",3/9/2023,2,1
+Neoleukin Therapeutics,Seattle,,70%,Healthcare,Post-IPO,$157,3/9/2023,70,1
+Toucan,Los Angeles,,100%,Education,Series A,,3/9/2023,100,1
+Kaleidoscope,Minneapolis,15,30%,Finance,Series A,$16,3/14/2023,30,1
+Samsung,SF Bay Area,30,,Hardware,Post-IPO,,3/14/2023,30,0
+Anchorage Digital,SF Bay Area,75,20%,Crypto,Series D,$487,3/14/2023,20,1
+Fetch,Madison,100,10%,Retail,Series E,$581,3/14/2023,10,1
+Meta,SF Bay Area,10000,,Consumer,Post-IPO,"$26,000",3/14/2023,10000,0
+Boxed,New York City,32,25%,Retail,Post-IPO,$365,3/15/2023,25,1
+Klaviyo,Boston,140,,Marketing,Unknown,$778,3/15/2023,140,0
+Leafly,Seattle,40,21%,Retail,Post-IPO,$71,3/16/2023,21,1
+Course Hero,SF Bay Area,42,15%,Education,Series C,$477,3/16/2023,15,1
+Coherent,SF Bay Area,108,,Manufacturing,Post-IPO,,3/16/2023,108,0
+Freshworks,SF Bay Area,114,2%,Support,Post-IPO,$484,3/16/2023,2,1
+Amazon,Seattle,9000,,Retail,Post-IPO,$108,3/20/2023,9000,0
+Marvell,SF Bay Area,320,4%,Hardware,Post-IPO,,3/21/2023,4,1
+Glassdoor,SF Bay Area,140,15%,HR,Acquired,$204,3/22/2023,15,1
+Indeed,Austin,2200,15%,HR,Acquired,$5,3/22/2023,15,1
+Roofstock,SF Bay Area,,27%,Real Estate,Series E,$365,3/22/2023,27,1
+Veeam,Columbus,200,,Data,Acquired,$500,3/23/2023,200,0
+Aspiration,Los Angeles,170,,Finance,Unknown,$250,3/24/2023,170,0
+Rackspace,San Antonio,275,,Data,Acquired,$17,3/27/2023,275,0
+Better Therapeutics,SF Bay Area,,35%,Healthcare,Post-IPO,$143,3/27/2023,35,1
+AEye,SF Bay Area,46,33%,Transportation,Post-IPO,$314,3/28/2023,33,1
+Blue Nile,Seattle,119,,Retail,Acquired,$62,3/28/2023,119,0
+Lucid Motors,SF Bay Area,1300,18%,Transportation,Post-IPO,"$8,300",3/28/2023,18,1
+iCAD,Nashua,23,28%,Healthcare,Post-IPO,$59,3/29/2023,28,1
+Drizly,Boston,100,,Retail,Acquired,$119,3/29/2023,100,0
+Seagate,SF Bay Area,480,,Hardware,Post-IPO,,3/29/2023,480,0
+Electronic Arts,SF Bay Area,780,6%,Consumer,Post-IPO,$2,3/29/2023,6,1
+CoverMyMeds,Columbus,800,,Healthcare,Acquired,$5,3/29/2023,800,0
+Shift,SF Bay Area,,30%,Transportation,Post-IPO,$504,3/29/2023,30,1
+Crossbeam,Philadelphia,17,15%,Sales,Series C,$116,3/30/2023,15,1
+Loop,Austin,19,25%,Finance,Series A,$24,3/30/2023,25,1
+LendingTree,Charlotte,150,13%,Finance,Post-IPO,,3/30/2023,13,1
+Roku,SF Bay Area,200,6%,Media,Post-IPO,$208,3/30/2023,6,1
+AnswerLab,SF Bay Area,,17%,Marketing,Unknown,,3/30/2023,17,1
+Textio,Seattle,15,12%,Recruiting,Unknown,$42,4/3/2023,12,1
+Guideline,SF Bay Area,48,11%,Finance,Series E,$339,4/3/2023,11,1
+View,SF Bay Area,170,23%,Other,Post-IPO,"$2,300",4/3/2023,23,1
+Hyland Software,Cleveland,1000,20%,Other,Acquired,,4/3/2023,20,1
+Boost,New York City,15,20%,Finance,Series B,$37,4/4/2023,20,1
+Foundation Medicine,Boston,135,,Healthcare,Acquired,$96,4/4/2023,135,0
+Amplitude,SF Bay Area,99,13%,Data,Post-IPO,$311,4/5/2023,13,1
+Workit Health,Ann Arbor,100,,Healthcare,Series C,$138,4/7/2023,100,0
+Pear Therapeutics,Boston,170,92%,Healthcare,Post-IPO,$409,4/7/2023,92,1
+Nori,Seattle,10,37%,Energy,Unknown,$13,4/10/2023,37,1
+Flock Freight,San Diego,45,8%,Logistics,Series D,$399,4/10/2023,8,1
+Redfin,Seattle,201,4%,Real Estate,Post-IPO,$320,4/11/2023,4,1
+Medtronic,SF Bay Area,59,,Healthcare,Post-IPO,"$5,900",4/12/2023,59,0
+Science 37,Los Angeles,140,,Healthcare,Post-IPO,$347,4/12/2023,140,0
+Viasat,San Diego,300,4%,Other,Post-IPO,$366,4/12/2023,4,1
+Astronomer,Cincinnati,100,40%,Data,Series C,$282,4/13/2023,40,1
+Snyk,Boston,128,,Security,Series F,$849,4/13/2023,128,0
+Community Gaming,New York City,17,17%,Crypto,Series A,$18,4/14/2023,17,1
+Drip Capital,SF Bay Area,75,20%,Finance,Series C,$85,4/14/2023,20,1
+Calibrate,New York City,,18%,Healthcare,Series B,$127,4/14/2023,18,1
+Clearcover,Chicago,81,15%,Finance,Series D,$304,4/17/2023,15,1
+TRM Labs,SF Bay Area,16,9%,Crypto,Series B,$149,4/18/2023,9,1
+Opendoor,SF Bay Area,560,22%,Real Estate,Post-IPO,"$1,900",4/18/2023,22,1
+WalkMe,SF Bay Area,112,10%,Other,Post-IPO,$307,4/19/2023,10,1
+F5,Seattle,623,9%,Security,Post-IPO,,4/19/2023,9,1
+Gloat,New York City,35,12%,HR,Series D,$192,4/20/2023,12,1
+BuzzFeed,New York City,180,15%,Media,Post-IPO,$696,4/20/2023,15,1
+Insider,New York City,,10%,Media,Unknown,,4/20/2023,10,1
+Benchling,SF Bay Area,74,9%,Other,Series F,$411,4/21/2023,9,1
+Lyft,SF Bay Area,1072,26%,Transportation,Post-IPO,"$4,900",4/21/2023,26,1
+BigPanda,SF Bay Area,40,13%,Infrastructure,Series E,$337,4/24/2023,13,1
+Red Hat,Raleigh,760,4%,Other,Acquired,,4/24/2023,4,1
+Rapid,SF Bay Area,70,30%,Finance,Series D,$272,4/25/2023,30,1
+Rapid,SF Bay Area,115,50%,Finance,Series D,$272,4/25/2023,50,1
+Teampay,New York City,30,33%,Finance,Series B,$79,4/26/2023,33,1
+Chief,New York City,43,14%,Other,Series B,$140,4/27/2023,14,1
+Poppulo,Denver,85,,HR,Acquired,$30,4/27/2023,85,0
+Rebellion Defense,Washington D.C.,90,,Data,Series B,$150,4/27/2023,90,0
+Greenhouse,New York City,100,12%,Recruiting,Private Equity,$110,4/27/2023,12,1
+Vroom,New York City,120,11%,Transportation,Post-IPO,"$1,300",4/27/2023,11,1
+Alteryx,Los Angeles,320,11%,Data,Post-IPO,$613,4/27/2023,11,1
+Dropbox,SF Bay Area,500,16%,Other,Post-IPO,"$1,700",4/27/2023,16,1
+Clubhouse,SF Bay Area,,50%,Consumer,Series C,$110,4/27/2023,50,1
+Embark Vet,Boston,28,,Healthcare,Series B,$94,4/28/2023,28,0
+N26,"Berlin,Non-U.S.",71,4%,Finance,Series E,"$1,700",4/28/2023,4,1
+Cue Health,San Diego,326,30%,Healthcare,Post-IPO,$899,4/28/2023,30,1
+Poparazzi,Los Angeles,,100%,Consumer,Series A,$15,4/28/2023,100,1
+Lev,New York City,34,,Real Estate,Series B,$114,5/1/2023,34,0
+SAS,Raleigh,250,,Data,Unknown,,5/1/2023,250,0
+Bishop Fox,Phoenix,50,13%,Security,Series B,$146,5/2/2023,13,1
+TheSkimm,New York City,22,13%,Media,Series C,$28,5/3/2023,13,1
+Zymergen,SF Bay Area,27,,Other,Acquired,$974,5/3/2023,27,0
+Brightcove,Boston,70,10%,Marketing,Post-IPO,$145,5/3/2023,10,1
+Healthy.io,"Tel Aviv,Non-U.S.",70,33%,Healthcare,Series D,$185,5/3/2023,33,1
+Upwork,SF Bay Area,137,15%,Other,Post-IPO,$168,5/3/2023,15,1
+Unity,SF Bay Area,600,8%,Other,Post-IPO,"$1,300",5/3/2023,8,1
+Brightline,SF Bay Area,,20%,Healthcare,Series C,$212,5/3/2023,20,1
+Autograph,Los Angeles,30,33%,Crypto,Series B,$205,5/4/2023,33,1
+Scribe Media,Austin,90,100%,Marketing,Unknown,,5/4/2023,100,1
+Sabre,Dallas,1100,15%,Travel,Post-IPO,"$1,700",5/4/2023,15,1
+Twist Bioscience,SF Bay Area,270,25%,Healthcare,Post-IPO,$503,5/5/2023,25,1
+Eventus,Austin,,33%,Finance,Series B,$45,5/5/2023,33,1
+Glean AI,New York City,5,,Finance,Seed,$11,5/8/2023,5,0
+LinkedIn,SF Bay Area,716,4%,Recruiting,Acquired,$154,5/8/2023,4,1
+Sonatype,Baltimore,100,14%,Security,Acquired,$154,5/9/2023,14,1
+Akamai,Boston,290,3%,Security,Post-IPO,$35,5/9/2023,3,1
+Marqeta,SF Bay Area,,15%,Finance,Post-IPO,$530,5/9/2023,15,1
+Stack Overflow,New York City,58,10%,Recruiting,Acquired,$153,5/10/2023,10,1
+Similarweb,New York City,60,6%,Other,Post-IPO,$235,5/10/2023,6,1
+Microsoft,Seattle,158,,Other,Post-IPO,$1,5/10/2023,158,0
+Varo,SF Bay Area,97,,Finance,Series E,$992,5/11/2023,97,0
+CS Disco,Austin,,8%,Legal,Post-IPO,$233,5/11/2023,8,1
+Slickdeals,Las Vegas,79,33%,Retail,Unknown,,5/12/2023,33,1
+Nuro,SF Bay Area,340,30%,Transportation,Series D,"$2,100",5/12/2023,30,1
+Everlaw,SF Bay Area,,10%,Legal,Series D,$298,5/12/2023,10,1
+Tessera,New York City,,100%,Crypto,Series A,$43,5/12/2023,100,1
+Cana,SF Bay Area,,100%,Food,Unknown,$30,5/13/2023,100,1
+Lemonade,New York City,45,3%,Finance,Post-IPO,$481,5/16/2023,3,1
+Cerner,Kansas City,3000,11%,Healthcare,Acquired,,5/16/2023,11,1
+Stash,New York City,40,10%,Finance,Unknown,$480,5/17/2023,10,1
+Formstack,Indianapolis,,40%,Other,Private Equity,$425,5/17/2023,40,1
+Pie Insurance,Washington D.C.,63,14%,Finance,Series D,$621,5/18/2023,14,1
+dbt Labs,Philadelphia,,15%,Data,Series D,$414,5/18/2023,15,1
+TuSimple,San Diego,,30%,Transportation,Post-IPO,$648,5/18/2023,30,1
+AppFolio,Santa Barbara,62,,Real Estate,Post-IPO,$30,5/22/2023,62,0
+Daylight,Los Angeles,,100%,Finance,Series A,$20,5/22/2023,100,1
+FemTech Health,Houston,,100%,Healthcare,Unknown,,5/22/2023,100,1
+WillowTree,Charlottesville,120,11%,Marketing,Acquired,,5/24/2023,11,1
+Guild,Denver,172,12%,Education,Series F,$643,5/24/2023,12,1
+Kabam,SF Bay Area,,12%,Consumer,Acquired,$244,5/25/2023,12,1
+DHI Group,New York City,53,10%,Recruiting,Post-IPO,,5/26/2023,10,1
+Project44,Chicago,130,10%,Logistics,Unknown,$817,5/26/2023,10,1
+Evolve,Denver,164,14%,Travel,Series F,$224,5/29/2023,14,1
+Away,New York City,22,8%,Retail,Series D,$181,5/31/2023,8,1
+Mux,SF Bay Area,40,30%,Infrastructure,Series D,$173,5/31/2023,30,1
+Vendr,Boston,100,25%,Other,Series B,$216,5/31/2023,25,1
+ZipRecruiter,Los Angeles,270,20%,Recruiting,Post-IPO,$769,5/31/2023,20,1
+Zendesk,SF Bay Area,320,8%,Support,Acquired,$85,5/31/2023,8,1
+Outbrain,New York City,90,10%,Marketing,Post-IPO,$394,6/1/2023,10,1
+Mural,SF Bay Area,170,,Product,Series C,$192,6/1/2023,170,0
+Haven Technologies,New York City,280,70%,Finance,Subsidiary,,6/1/2023,70,1
+SentinelOne,SF Bay Area,,5%,Security,Post-IPO,$696,6/1/2023,5,1
+SmartAsset,New York City,,19%,Finance,Series D,$161,6/1/2023,19,1
+ZoomInfo,Vancouver,120,3%,Sales,Post-IPO,$7,6/2/2023,3,1
+Zume,SF Bay Area,,100%,Food,Unknown,$423,6/2/2023,100,1
+Meati Foods,Denver,,5%,Food,Series C,$274,6/3/2023,5,1
+Dragos,Baltimore,50,9%,Security,Series D,$364,6/6/2023,9,1
+Unity,SF Bay Area,50,,Other,Post-IPO,"$1,300",6/6/2023,50,0
+Reddit,SF Bay Area,90,5%,Consumer,Series F,"$1,300",6/6/2023,5,1
+Edgio,Phoenix,134,12%,Infrastructure,Post-IPO,$462,6/6/2023,12,1
+Coherent,SF Bay Area,196,,Manufacturing,Post-IPO,,6/6/2023,196,0
+Bunnii,New York City,,100%,Healthcare,Unknown,,6/6/2023,100,1
+Flatiron Health,New York City,39,,Healthcare,Acquired,$324,6/7/2023,39,0
+Sumo Logic,SF Bay Area,79,,Data,Acquired,$340,6/7/2023,79,0
+HashiCorp,SF Bay Area,,8%,Infrastructure,Post-IPO,$349,6/7/2023,8,1
+Highspot,Seattle,140,15%,Sales,Series F,$644,6/8/2023,15,1
+Cityblock Health,New York City,155,12%,Healthcare,Series D,$891,6/8/2023,12,1
+Branch,Columbus,186,,Finance,Series C,$229,6/8/2023,186,0
+Opora,SF Bay Area,,100%,Security,Seed,$7,6/8/2023,100,1
+Expel,Washington D.C.,60,10%,Security,Series E,$288,6/9/2023,10,1
+23andMe,SF Bay Area,75,9%,Healthcare,Post-IPO,"$1,100",6/9/2023,9,1
+TaxBit,SF Bay Area,80,40%,Crypto,Unknown,$253,6/11/2023,40,1
+Chegg,SF Bay Area,80,4%,Education,Post-IPO,$227,6/12/2023,4,1
+Pendo,Raleigh,100,12%,Product,Series F,$469,6/12/2023,12,1
+Grubhub,SF Bay Area,400,15%,Food,Acquired,$284,6/12/2023,15,1
+dot.LA,Los Angeles,,100%,Media,Seed,$4,6/12/2023,100,1
+JupiterOne,Raleigh,8,,Security,Series C,$119,6/13/2023,8,0
+Western Digital,SF Bay Area,211,,Hardware,Post-IPO,$900,6/13/2023,211,0
+Olo,New York City,81,11%,Food,Post-IPO,$184,6/14/2023,11,1
+TrueCar,Los Angeles,102,24%,Transportation,Post-IPO,$340,6/14/2023,24,1
+Sonos,New York City,130,7%,Consumer,Post-IPO,$455,6/14/2023,7,1
+Bitwise,SF Bay Area,900,100%,Crypto,Series B,$84,6/14/2023,100,1
+Synapse,SF Bay Area,,18%,Finance,Series B,$50,6/14/2023,18,1
+CareRev,Los Angeles,100,33%,Healthcare,Series A,$51,6/15/2023,33,1
+Pilot,SF Bay Area,45,13%,Finance,Unknown,$116,6/16/2023,13,1
+Qualcomm,SF Bay Area,84,,Hardware,Post-IPO,,6/16/2023,84,0
+Nikola,Phoenix,270,,Transportation,Post-IPO,"$3,300",6/16/2023,270,0
+Fuzzy,SF Bay Area,,100%,Healthcare,Series C,$80,6/18/2023,100,1
+Panther,Tampa Bay,,100%,HR,Seed,$2,6/19/2023,100,1
+AvantStay,Los Angeles,37,,Travel,Private Equity,$686,6/20/2023,37,0
+Tackle.io,Boise,75,,Infrastructure,Series C,$148,6/21/2023,75,0
+Uber,SF Bay Area,200,,Transportation,Post-IPO,"$25,200",6/21/2023,200,0
+Anaplan,SF Bay Area,300,,Other,Acquired,$300,6/21/2023,300,0
+Mutiny,SF Bay Area,,30%,Marketing,Series B,$69,6/21/2023,30,1
+Retool,SF Bay Area,,9%,Other,Series C,$141,6/22/2023,9,1
+IRL,SF Bay Area,,100%,Consumer,Series C,$197,6/23/2023,100,1
+Joonko,New York City,,100%,Recruiting,Series B,$38,6/25/2023,100,1
+Convoy,Seattle,30,5%,Logistics,Series E,"$1,100",6/26/2023,5,1
+Robinhood,SF Bay Area,150,7%,Finance,Post-IPO,"$5,600",6/26/2023,7,1
+Payoneer,New York City,200,10%,Finance,Post-IPO,,6/26/2023,10,1
+New Relic,SF Bay Area,255,10%,Infrastructure,Post-IPO,$214,6/27/2023,10,1
+Honor,SF Bay Area,,15%,Healthcare,Unknown,$625,6/27/2023,15,1
+Lordstown Motors,Detroit,,100%,Transportation,Post-IPO,"$1,100",6/27/2023,100,1
+Plex,SF Bay Area,37,20%,Media,Unknown,$81,6/28/2023,20,1
+Karat,Seattle,47,,HR,Unknown,$169,6/28/2023,47,0
+Ludia,"Montreal,Non-U.S.",55,,Consumer,Acquired,$1,6/28/2023,55,0
+ClickUp,San Diego,90,10%,Other,Series C,$537,6/28/2023,10,1
+Starburst,Boston,,15%,Data,Series D,$414,6/28/2023,15,1
+Zapier,SF Bay Area,,10%,Other,Seed,$1,6/28/2023,10,1
+Insider Intelligence,New York City,20,,Media,Subsidiary,,6/29/2023,20,0
+Candy Digital,New York City,30,,Crypto,Series A,$138,6/29/2023,30,0
+Artsy,New York City,35,15%,Retail,Series D,$100,6/29/2023,15,1
+Headspace,Los Angeles,181,15%,Healthcare,Unknown,$216,6/29/2023,15,1
+Niantic,SF Bay Area,230,,Other,Series D,$770,6/29/2023,230,0
+Vowel,New York City,,100%,Other,Series A,$18,6/29/2023,100,1
+Buzzer,New York City,,100%,Consumer,Series A,$24,6/30/2023,100,1
+Lunya,Los Angeles,,100%,Retail,Unknown,,6/30/2023,100,1
+MediaMath,New York City,,100%,Marketing,Private Equity,$607,6/30/2023,100,1
+Petal,New York City,,20%,Finance,Series D,$704,6/30/2023,20,1
+TytoCare,New York City,20,10%,Healthcare,Series D,$156,7/6/2023,10,1
+Solidigm,Sacramento,98,,Hardware,Unknown,,7/6/2023,98,0
+Perfect Day,SF Bay Area,134,15%,Food,Series D,$711,7/6/2023,15,1
+Amdocs,St. Louis,2000,6%,Support,Post-IPO,,7/6/2023,6,1
+Rad Power Bikes,Seattle,40,,Transportation,Series D,$329,7/10/2023,40,0
+Latch,New York City,,59%,Security,Post-IPO,$342,7/10/2023,59,1
+Motive,SF Bay Area,,5%,Transportation,Series F,$567,7/10/2023,5,1
+Everquote,Evansville,100,,Finance,Post-IPO,$53,7/11/2023,100,0
+Sisense,New York City,100,15%,Data,Series F,$274,7/11/2023,15,1
+Matterport,SF Bay Area,170,30%,Data,Post-IPO,$409,7/11/2023,30,1
+Butterfly Network copy,Boston,,25%,Healthcare,Post-IPO,$530,7/11/2023,25,1
+Shift,SF Bay Area,,34%,Transportation,Post-IPO,$504,7/11/2023,34,1
+Freightos,Miami,50,13%,Logistics,Post-IPO,$118,7/12/2023,13,1
+Stitch Fix,Philadelphia,400,,Retail,Post-IPO,$79,7/12/2023,400,0
+Duck Creek Technologies,Boston,,9%,Finance,Acquired,$357,7/12/2023,9,1
+Peloton,New York City,11,,Fitness,Post-IPO,"$1,900",7/13/2023,11,0
+Deepwatch,Tampa Bay,30,7%,Security,Series C,$256,7/13/2023,7,1
+Uber Freight,SF Bay Area,40,,Logistics,Subsidiary,"$2,700",7/13/2023,40,0
+Tempo Automation,SF Bay Area,62,,Other,Post-IPO,$154,7/13/2023,62,0
+Amazon,Seattle,80,,Retail,Post-IPO,$108,7/13/2023,80,0
+Bark,New York City,,8%,Retail,Post-IPO,$282,7/13/2023,8,1
+Khoros,Austin,,5%,Sales,Private Equity,$138,7/13/2023,5,1
+PayScale,Seattle,14,2%,HR,Acquired,$33,7/14/2023,2,1
+Sarcos,Salt Lake City,75,25%,Aerospace,Post-IPO,$316,7/17/2023,25,1
+Ezoic,San Diego,,28%,Infrastructure,Series A,$39,7/17/2023,28,1
+Cameo,Chicago,80,,Consumer,Unknown,$165,7/18/2023,80,0
+Microsoft,Seattle,1000,,Other,Post-IPO,$1,7/18/2023,1000,0
+Tilia,SF Bay Area,28,32%,Finance,Unknown,$32,7/19/2023,32,1
+Inspirato,Denver,50,6%,Travel,Post-IPO,$179,7/19/2023,6,1
+AgentSync,Denver,67,24%,Finance,Series B,$111,7/19/2023,24,1
+Blue Apron,New York City,,20%,Food,Post-IPO,$422,7/19/2023,20,1
+Stoa,Phoenix,80,80%,Real Estate,Unknown,,7/20/2023,80,1
+PathAI,Boston,87,,Healthcare,Series C,$255,7/21/2023,87,0
+AppHarvest,Lexington,,100%,Food,Post-IPO,$692,7/24/2023,100,1
+Deep Instict,New York City,46,15%,Security,Unknown,$322,7/25/2023,15,1
+Calendly,Atlanta,60,10%,Other,Series B,$351,7/26/2023,10,1
+Figure,SF Bay Area,90,20%,Crypto,Unknown,"$1,500",7/26/2023,20,1
+Verbit,New York City,60,6%,Data,Series E,$569,7/27/2023,6,1
+Point,SF Bay Area,61,28%,Real Estate,Series C,$149,7/27/2023,28,1
+Wish,SF Bay Area,255,34%,Retail,Post-IPO,"$1,600",7/27/2023,34,1
+Datree,SF Bay Area,,100%,Other,Seed,$11,7/27/2023,100,1
+Nexar,New York City,12,,Transportation,Series D,$149,7/31/2023,12,0
+Archipelago,SF Bay Area,40,30%,Real Estate,Series B,$57,8/1/2023,30,1
+Planet,SF Bay Area,117,10%,Aerospace,Post-IPO,$574,8/1/2023,10,1
+inDrive,SF Bay Area,,10%,Transportation,Unknown,$387,8/1/2023,10,1
+Outreach,Seattle,,5%,Sales,Series G,$489,8/1/2023,5,1
+Augury,New York City,70,18%,Manufacturing,Series E,$274,8/2/2023,18,1
+Gem,SF Bay Area,70,,Recruiting,Series C,$148,8/2/2023,70,0
+BetterUp,SF Bay Area,100,16%,HR,Series E,$567,8/2/2023,16,1
+HackerOne,SF Bay Area,,12%,Security,Series E,$159,8/2/2023,12,1
+Discord,SF Bay Area,37,4%,Consumer,Series H,$995,8/3/2023,4,1
+Qomplx,Washington D.C.,60,,AI,Series A,$107,8/4/2023,60,0
+Astra,SF Bay Area,,25%,Aerospace,Post-IPO,$300,8/4/2023,25,1
+Caliva,SF Bay Area,54,,Retail,Series B,$75,8/8/2023,54,0
+23andMe,SF Bay Area,71,11%,Healthcare,Post-IPO,"$1,100",8/8/2023,11,1
+Doximity,SF Bay Area,100,10%,Healthcare,Post-IPO,$82,8/8/2023,10,1
+Rapid7,Boston,470,18%,Security,Post-IPO,$89,8/8/2023,18,1
+Thoughtworks,Chicago,579,5%,Other,Post-IPO,$748,8/8/2023,5,1
+Dealtale,"Tel Aviv,Non-U.S.",70,100%,Sales,Acquired,$2,8/9/2023,100,1
+Niantic,Los Angeles,100,,Other,Series D,$770,8/9/2023,100,0
+Blend,SF Bay Area,150,19%,Finance,Post-IPO,$665,8/9/2023,19,1
+StyleSeat,SF Bay Area,,17%,Consumer,Series C,$40,8/9/2023,17,1
+SHINE Technologies,Milwaukee,59,,Other,Series C,$672,8/10/2023,59,0
+Shutterfly,Minneapolis,246,,Manufacturing,Post-IPO,$50,8/10/2023,246,0
+SecureWorks,Atlanta,300,15%,Security,Post-IPO,$83,8/14/2023,15,1
+FlexCar,Boston,20,,Transportation,Unknown,$297,8/16/2023,20,0
+Intel,SF Bay Area,140,,Hardware,Post-IPO,$12,8/17/2023,140,0
+AppFolio,Santa Barbara,149,9%,Real Estate,Post-IPO,$30,8/17/2023,9,1
+Illumina,San Diego,151,,Healthcare,Post-IPO,$28,8/17/2023,151,0
+Zylo,Indianapolis,,10%,Other,Series C,$72,8/18/2023,10,1
+Rivos,SF Bay Area,24,6%,Hardware,Unknown,,8/23/2023,6,1
+BlackLine,Los Angeles,95,5%,Finance,Post-IPO,$220,8/23/2023,5,1
+Atlas,Chicago,150,30%,HR,Series B,$220,8/23/2023,30,1
+Captiv8,SF Bay Area,8,3%,Marketing,Unknown,$4,8/24/2023,3,1
+HackerRank,SF Bay Area,53,,Recruiting,Series D,$103,8/27/2023,53,0
+Zebra Technologies,Chicago,700,7%,Manufacturing,Post-IPO,"$2,000",8/28/2023,7,1
+Clockwork,Dallas,,100%,Crypto,Seed,$4,8/28/2023,100,1
+Zeplin,SF Bay Area,37,35%,Product,Seed,$1,8/30/2023,35,1
+SkyKick,Seattle,140,,Other,Unknown,$198,8/30/2023,140,0
+Malwarebytes,SF Bay Area,100,,Security,Series B,$80,8/31/2023,100,0
+Biofourmis,Boston,120,,Healthcare,Series D,$464,8/31/2023,120,0
+Pegasystems,Boston,240,4%,HR,Post-IPO,,8/31/2023,4,1
+Productboard,SF Bay Area,,10%,Product,Series D,,8/31/2023,10,1
+Clearcover,Chicago,,28%,Finance,Series D,$304,9/1/2023,28,1
+Gated,SF Bay Area,,100%,Other,Seed,$3,9/1/2023,100,1
+Nexar,New York City,17,14%,Transportation,Series D,$149,9/4/2023,14,1
+Hodinkee,New York City,24,20%,Retail,Seed,$40,9/5/2023,20,1
+Absci,Portland,30,15%,Healthcare,Post-IPO,$238,9/5/2023,15,1
+ForeScout,"Tel Aviv,Non-U.S.",40,,Security,Acquired,$125,9/6/2023,40,0
+Roku,SF Bay Area,360,10%,Media,Post-IPO,$208,9/6/2023,10,1
+iSpecimen,Boston,,20%,Healthcare,Post-IPO,$31,9/6/2023,20,1
+Drift,Boston,100,25%,Marketing,Acquired,$107,9/7/2023,25,1
+ChargePoint,SF Bay Area,,10%,Manufacturing,Unknown,"$1,400",9/8/2023,10,1
+Grabango,SF Bay Area,34,40%,Food,Unknown,$94,9/11/2023,40,1
+Divvy Homes,SF Bay Area,94,,Real Estate,Series B,$180,9/11/2023,94,0
+Chargebee,SF Bay Area,100,10%,Finance,Series H,$468,9/11/2023,10,1
+At-Bay,SF Bay Area,27,9%,Security,Unknown,$296,9/12/2023,9,1
+Binance.US,SF Bay Area,100,33%,Crypto,Subsidiary,,9/12/2023,33,1
+Evolve,Denver,175,20%,Travel,Series F,$224,9/12/2023,20,1
+Google,SF Bay Area,75,,Consumer,Post-IPO,$26,9/13/2023,75,0
+Akili Labs,Boston,,40%,Healthcare,Post-IPO,$301,9/13/2023,40,1
+VideoAmp,Los Angeles,40,10%,Marketing,Series F,$456,9/14/2023,10,1
+Project44,Chicago,116,,Logistics,Unknown,$817,9/14/2023,116,0
+Airtable,SF Bay Area,237,27%,Product,Series F,"$1,400",9/14/2023,27,1
+R3,New York City,,20%,Crypto,Series A,$112,9/14/2023,20,1
+Sage Therapeutics copy,Boston,290,,Healthcare,Post-IPO,$438,9/15/2023,290,0
+Cisco,SF Bay Area,350,,Infrastructure,Post-IPO,$2,9/17/2023,350,0
+Hooray Foods,SF Bay Area,,100%,Food,Seed,$7,9/17/2023,100,1
+Nowadays,SF Bay Area,,100%,Food,Seed,$10,9/18/2023,100,1
+Outreach,Seattle,,12%,Sales,Series G,$489,9/20/2023,12,1
+Merative,"Dublin,Non-U.S.",100,,Healthcare,Acquired,,9/21/2023,100,0
+Roblox,New York City,30,,Consumer,Post-IPO,$857,9/22/2023,30,0
+Appsmith,SF Bay Area,35,25%,,Series B,$51,9/22/2023,25,1
+Eat Just,SF Bay Area,40,,Food,Unknown,$465,9/22/2023,40,0
+Lucid Software,Salt Lake City,75,7%,Other,Series E,$170,9/25/2023,7,1
+Flexe,Seattle,131,33%,Logistics,Series D,$263,9/26/2023,33,1
+Snap,Los Angeles,170,,Consumer,Post-IPO,"$4,900",9/27/2023,170,0
+Lululemon Studio,New York City,120,,Fitness,Acquired,$75,9/28/2023,120,0
+Epic Games,Raleigh,870,16%,Consumer,Unknown,"$6,400",9/28/2023,16,1
+Fit Analytics,"Berlin,Non-U.S.",,100%,Retail,Acquired,,9/28/2023,100,1
+Cowbell,SF Bay Area,28,12%,Finance,Series B,$123,9/29/2023,12,1
+Chia Network,SF Bay Area,26,37%,Crypto,Series D,$70,10/2/2023,37,1
+Synapse,SF Bay Area,86,40%,Finance,Series B,$50,10/2/2023,40,1
+Chainalysis,New York City,150,15%,Crypto,Series F,$536,10/2/2023,15,1
+IronNet,Washington D.C.,,100%,Security,Post-IPO,$428,10/2/2023,100,1
+Qualtrics,Salt Lake City,780,14%,Other,Acquired,$400,10/4/2023,14,1
+SeekOut,Seattle,16,7%,Recruiting,Series C,,10/5/2023,7,1
+SchoolMint,SF Bay Area,29,14%,Education,Acquired,$8,10/5/2023,14,1
+Enovix,SF Bay Area,185,,Energy,Post-IPO,$516,10/5/2023,185,0
+InvestCloud,Los Angeles,80,5%,Finance,Private Equity,$54,10/6/2023,5,1
+Juniper Networks,SF Bay Area,440,4%,Hardware,Post-IPO,$39,10/6/2023,4,1
+Brave,SF Bay Area,,9%,Consumer,Series B,$42,10/6/2023,9,1
+Dash,New York City,,100%,Finance,Unknown,$86,10/6/2023,100,1
+Shift,SF Bay Area,,100%,Transportation,Post-IPO,$504,10/6/2023,100,1
+VTrips,Jacksonville,75,9%,Travel,Private Equity,,10/7/2023,9,1
+Blue Origin,Seattle,40,,Aerospace,Unknown,$167,10/9/2023,40,0
+Carbon Health,SF Bay Area,114,5%,Healthcare,Series D,$522,10/9/2023,5,1
+Stitch Fix,Dallas,558,,Retail,Post-IPO,$79,10/9/2023,558,0
+Braid,SF Bay Area,,100%,Finance,Unknown,,10/9/2023,100,1
+Product Hunt,,,60%,Consumer,Acquired,,10/9/2023,60,1
+Deepgram,SF Bay Area,20,20%,AI,Series B,$86,10/11/2023,20,1
+MariaDB,SF Bay Area,84,28%,Data,Post-IPO,$272,10/12/2023,28,1
+Lending Club,SF Bay Area,172,14%,Finance,Post-IPO,$392,10/12/2023,14,1
+Qualcomm,San Diego,1258,2%,Hardware,Post-IPO,,10/12/2023,2,1
+Flexport,SF Bay Area,,20%,Logistics,Series E,"$2,400",10/13/2023,20,1
+Bandcamp,SF Bay Area,58,50%,Other,Acquired,,10/16/2023,50,1
+C2FO,Kansas City,80,3%,Finance,Series H,$537,10/16/2023,3,1
+Kayak / OpenTable,Stamford,80,,Travel,Acquired,$229,10/16/2023,80,0
+LinkedIn,SF Bay Area,660,3%,Recruiting,Acquired,$154,10/16/2023,3,1
+Stack Overflow,New York City,,28%,Recruiting,Acquired,$153,10/16/2023,28,1
+Expedia,Seattle,100,,Travel,Post-IPO,"$3,300",10/17/2023,100,0
+Plume,Denver,24,,Healthcare,Series B,$38,10/18/2023,24,0
+Google,SF Bay Area,40,,Consumer,Post-IPO,$26,10/18/2023,40,0
+Made Renovation,SF Bay Area,,100%,Construction,Seed,$9,10/18/2023,100,1
+LegalZoom,Austin,100,,Legal,Post-IPO,$951,10/19/2023,100,0
+Bullhorn,Boston,140,9%,Sales,Acquired,$32,10/19/2023,9,1
+Convoy,Seattle,500,100%,Logistics,Series E,"$1,100",10/19/2023,100,1
+Tropic,New York City,26,,Finance,Series B,$67,10/20/2023,26,0
+Nomad Health,New York City,119,17%,Healthcare,Unknown,$218,10/20/2023,17,1
+Nomad Health,New York City,,25%,Healthcare,Unknown,$218,10/20/2023,25,1
+SiFive,SF Bay Area,130,20%,Hardware,Series F,$365,10/24/2023,20,1
+Pebble,SF Bay Area,,100%,Consumer,Seed,$1,10/24/2023,100,1
+Shipt,Birmingham,,3%,Retail,Acquired,$65,10/24/2023,3,1
+Salsify,Boston,110,,Retail,Unknown,$453,10/25/2023,110,0
+Exabeam,SF Bay Area,,20%,Security,Series F,$391,10/25/2023,20,1
+Slync,Dallas,,100%,Logistics,Series B,$76,10/25/2023,100,1
+Hippo Insurance,SF Bay Area,120,20%,Finance,Post-IPO,"$1,300",10/26/2023,20,1
+Hubilo,SF Bay Area,50,,Other,Series B,$153,10/30/2023,50,0
+Olive,Columbus,,100%,Healthcare,Series H,$856,10/31/2023,100,1
+Sana Benefits,Austin,73,50%,HR,Series B,$106,11/1/2023,50,1
+Faire,SF Bay Area,250,20%,Retail,Series G,"$1,700",11/1/2023,20,1
+Splunk,SF Bay Area,500,7%,Data,Post-IPO,"$2,400",11/1/2023,7,1
+Informatica,SF Bay Area,545,10%,Data,Post-IPO,,11/1/2023,10,1
+Beyond Meat,Los Angeles,65,8%,Food,Post-IPO,$122,11/2/2023,8,1
+Viasat,San Diego,800,10%,Other,Post-IPO,$366,11/2/2023,10,1
+F5,Seattle,120,2%,Security,Post-IPO,,11/3/2023,2,1
+OpenSea,New York City,,50%,Crypto,Series C,$427,11/3/2023,50,1
+Ava Labs,New York City,,12%,Crypto,Unknown,$640,11/6/2023,12,1
+Zillow,Seattle,23,,Real Estate,Post-IPO,$97,11/7/2023,23,0
+Oportun,SF Bay Area,185,7%,Finance,Post-IPO,$766,11/7/2023,7,1
+Nextdoor,SF Bay Area,,25%,Consumer,Post-IPO,$736,11/7/2023,25,1
+Zeus Living,SF Bay Area,,100%,Real Estate,Series C,$151,11/7/2023,100,1
+Snap,Los Angeles,20,,Consumer,Post-IPO,"$4,900",11/8/2023,20,0
+BigCommerce,Austin,,7%,Retail,Post-IPO,$224,11/8/2023,7,1
+TripAdvisor,Boston,125,4%,Travel,Post-IPO,$3,11/12/2023,4,1
+Amazon,Seattle,180,,Retail,Post-IPO,$108,11/13/2023,180,0
+Sarcos,Pittsburgh,150,,Aerospace,Post-IPO,$316,11/14/2023,150,0
+Chewy,Miami,200,,Retail,Post-IPO,$451,11/14/2023,200,0
+Singular Genomics,San Diego,,10%,Healthcare,Post-IPO,$176,11/15/2023,10,1
+Uleet,Columbus,,100%,Healthcare,Unknown,,11/15/2023,100,1
+Sierra Space,Boulder,115,,Aerospace,Series B,"$1,700",11/16/2023,115,0
+NextGen Healthcare,St. Louis,84,,Healthcare,Acquired,,11/17/2023,84,0
+Buildertrend,Omaha,,16%,Construction,Unknown,,11/17/2023,16,1
+Jane,Lehi,,100%,Retail,Series A,$40,11/17/2023,100,1
+Presto,SF Bay Area,,17%,Food,Post-IPO,$167,11/20/2023,17,1
+Veev,SF Bay Area,,100%,Construction,Series D,$597,11/26/2023,100,1
+Our Next Energy,Detroit,128,25%,Transportation,Series B,$390,11/27/2023,25,1
+VMware,SF Bay Area,2837,,Infrastructure,Acquired,$393,11/27/2023,2837,0
+Dataminr,New York City,150,20%,AI,Series F,"$1,100",11/28/2023,20,1
+Unity,SF Bay Area,265,4%,Other,Post-IPO,"$1,300",11/28/2023,4,1
+Domo,Salt Lake City,,7%,Data,Post-IPO,$689,11/30/2023,7,1
+Vox Media,Washington D.C.,,4%,Media,Series F,$307,11/30/2023,4,1
+Filmic,Seattle,,100%,Other,Acquired,,12/1/2023,100,1
+Meow Wolf,Santa Fe,8,,Media,Unknown,$185,12/4/2023,8,0
+TuSimple,San Diego,150,,Transportation,Post-IPO,$648,12/4/2023,150,0
+DwellWell,Los Angeles,,100%,Real Estate,Seed,$6,12/4/2023,100,1
+Twilio,SF Bay Area,,5%,Other,Post-IPO,$614,12/4/2023,5,1
+Navan,SF Bay Area,145,5%,Finance,Unknown,"$2,200",12/5/2023,5,1
+Bill.com,SF Bay Area,,15%,Finance,Post-IPO,$280,12/5/2023,15,1
+Course Hero,SF Bay Area,,25%,Education,Series C,$477,12/5/2023,25,1
+Tidal,New York City,40,10%,Consumer,Acquired,,12/6/2023,10,1
+Navan,SF Bay Area,145,,Travel,Unknown,"$2,200",12/6/2023,145,0
+Rivian,Detroit,20,,Transportation,Post-IPO,"$10,700",12/7/2023,20,0
+Zulily,Seattle,839,100%,Retail,Acquired,$194,12/8/2023,100,1
+D2iQ,SF Bay Area,,100%,Infrastructure,Series D,$247,12/8/2023,100,1
+SmileDirectClub,Nashville,,100%,Healthcare,Post-IPO,$694,12/9/2023,100,1
+Sunfolding,SF Bay Area,,100%,Energy,Series B,$32,12/9/2023,100,1
+Chipper Cash,SF Bay Area,15,33%,Finance,Series C,$302,12/11/2023,33,1
+Flex,SF Bay Area,31,,Manufacturing,Unknown,,12/13/2023,31,0
+ForgeRock,SF Bay Area,109,,Other,Acquired,$234,12/13/2023,109,0
+Analog Devices,SF Bay Area,111,,Manufacturing,Post-IPO,,12/13/2023,111,0
+Etsy,New York City,225,11%,Retail,Post-IPO,$97,12/13/2023,11,1
+Invitae,SF Bay Area,235,15%,Healthcare,Post-IPO,"$2,500",12/13/2023,15,1
+FourKites,Chicago,,15%,Logistics,Unknown,$241,12/13/2023,15,1
+Sojern,SF Bay Area,,20%,Marketing,Unknown,$172,12/13/2023,20,1
+Cruise,SF Bay Area,900,24%,Transportation,Acquired,"$15,000",12/14/2023,24,1
+Bolt,SF Bay Area,,29%,Finance,Series E,"$1,300",12/14/2023,29,1
+Stellar Pizza,Los Angeles,,50%,Food,Series A,$25,12/14/2023,50,1
+Glowforge,Seattle,30,,Manufacturing,Series E,$133,12/15/2023,30,0
+eBay,"Tel Aviv,Non-U.S.",20,,Retail,Post-IPO,"$1,200",12/17/2023,20,0
+Enphase Energy,SF Bay Area,350,10%,Energy,Post-IPO,$116,12/18/2023,10,1
+InSightec,"Haifa,Non-U.S.",100,20%,Healthcare,Unknown,$733,12/19/2023,20,1
+Kaspien,Seattle,,100%,Retail,Post-IPO,$52,12/19/2023,100,1
+Intel,Sacramento,311,,Hardware,Post-IPO,$12,12/21/2023,311,0
+Hyperloop One,Los Angeles,,100%,Transportation,Unknown,$368,12/21/2023,100,1
+Strake,Boulder,,100%,Infrastructure,Unknown,,12/28/2023,100,1
+The Messenger,New York City,24,,Media,Unknown,,1/2/2024,24,0
+Frontdesk,Milwaukee,200,100%,Travel,Unknown,$26,1/2/2024,100,1
+Xerox,Norwalk,3000,15%,Hardware,Post-IPO,"$27,200",1/3/2024,15,1
+InVision,New York City,,100%,Product,Series F,$356,1/4/2024,100,1
+VideoAmp,Los Angeles,,20%,Marketing,Series F,$456,1/4/2024,20,1
+Cue Health,San Diego,94,13%,Healthcare,Post-IPO,$899,1/5/2024,13,1
+NanoString Technologies,Seattle,50,9%,Healthcare,Post-IPO,$826,1/6/2024,9,1
+Flexe,Seattle,99,38%,Logistics,Series D,$263,1/8/2024,38,1
+NuScale Power,Corvallis,154,28%,Energy,Post-IPO,$470,1/8/2024,28,1
+Unity,SF Bay Area,1800,25%,Other,Post-IPO,"$1,300",1/8/2024,25,1
+Here,Miami,,100%,Real Estate,Seed,$5,1/8/2024,100,1
+Ledger Investing,New York City,,25%,Finance,Series B,$91,1/8/2024,25,1
+MeridianLink,Los Angeles,,9%,Finance,Post-IPO,$485,1/8/2024,9,1
+Humane,SF Bay Area,10,4%,Hardware,Series C,$230,1/9/2024,4,1
+Treasure Financial,SF Bay Area,14,60%,Finance,Series A,$14,1/9/2024,60,1
+Rent the Runway,New York City,37,10%,Retail,Post-IPO,$526,1/9/2024,10,1
+Uber Freight,SF Bay Area,40,,Logistics,Subsidiary,"$2,700",1/9/2024,40,0
+FullStory,Atlanta,50,10%,Marketing,Unknown,$197,1/9/2024,10,1
+Nevro,SF Bay Area,63,5%,Healthcare,Post-IPO,$556,1/9/2024,5,1
+Branch,Columbus,85,,Finance,Series C,$229,1/9/2024,85,0
+Twitch,SF Bay Area,500,35%,Consumer,Acquired,$35,1/9/2024,35,1
+Instagram,SF Bay Area,60,,Consumer,Acquired,$57,1/10/2024,60,0
+Beam Benefits,Columbus,74,,Healthcare,Series E,$168,1/10/2024,74,0
+FreshDirect,New York City,100,3%,Food,Acquired,$280,1/10/2024,3,1
+IAC,New York City,330,,Consumer,Post-IPO,,1/10/2024,330,0
+Citrix,Miami,1000,12%,Infrastructure,Acquired,$20,1/10/2024,12,1
+Google,SF Bay Area,1000,,Consumer,Post-IPO,$26,1/10/2024,1000,0
+ChargePoint,SF Bay Area,,12%,Manufacturing,Unknown,"$1,400",1/10/2024,12,1
+SoFi,SF Bay Area,,4%,Finance,Post-IPO,"$3,000",1/10/2024,4,1
+Cloudflare,SF Bay Area,40,,Security,Post-IPO,$332,1/11/2024,40,0
+Sisense,New York City,60,13%,Data,Series F,$274,1/11/2024,13,1
+Audible,New York City,100,5%,Media,Acquired,$14,1/11/2024,5,1
+Discord,SF Bay Area,170,17%,Consumer,Series H,$995,1/11/2024,17,1
+Dextrous Robotics,Memphis,,100%,Logistics,Unknown,,1/11/2024,100,1
+Veeam,Columbus,300,,Data,Acquired,$500,1/12/2024,300,0
+Artifact,SF Bay Area,,100%,Media,Unknown,,1/12/2024,100,1
+First Mode,Seattle,48,20%,Transportation,Acquired,$9,1/16/2024,20,1
+SonderMind,Denver,49,17%,Healthcare,Series C,$183,1/16/2024,17,1
+YouTube,SF Bay Area,100,,Media,Acquired,$11,1/17/2024,100,0
+Amazon,Seattle,30,,Retail,Post-IPO,$108,1/18/2024,30,0
+Wayfair,Boston,1650,13%,Retail,Post-IPO,"$1,700",1/19/2024,13,1
+TikTok,Los Angeles,60,,Consumer,Acquired,,1/22/2024,60,0
+Riot Games,Los Angeles,530,11%,Consumer,Acquired,$21,1/22/2024,11,1
+GoTo,Boston,29,,Other,Acquired,$2,1/23/2024,29,0
+Brex,SF Bay Area,282,20%,Finance,Series D,"$1,500",1/23/2024,20,1
+Vroom,New York City,800,90%,Transportation,Post-IPO,"$1,300",1/23/2024,90,1
+eBay,SF Bay Area,1000,9%,Retail,Post-IPO,"$1,200",1/23/2024,9,1
+Aurora,Pittsburgh,,3%,Transportation,Post-IPO,"$3,700",1/24/2024,3,1
+Desktop Metal,Boston,,20%,Other,Post-IPO,$811,1/24/2024,20,1
+MVPindex,Austin,12,30%,Marketing,Series B,$27,1/25/2024,30,1
+Amperity,Seattle,20,,Marketing,Series D,$187,1/25/2024,20,0
+Veho,Boulder,65,19%,Logistics,Series B,$299,1/25/2024,19,1
+Microsoft,Seattle,1900,,Other,Post-IPO,$1,1/25/2024,1900,0
+Business Insider,New York City,,8%,Media,Acquired,$56,1/25/2024,8,1
+Jamf,Minneapolis,,6%,Other,Post-IPO,$332,1/25/2024,6,1
+Salesforce,SF Bay Area,700,1%,Sales,Post-IPO,$65,1/26/2024,1,1
+Flexport,SF Bay Area,,20%,Logistics,Series E,"$2,400",1/26/2024,20,1
+DispatchHealth,Denver,88,,Healthcare,Series E,$733,1/29/2024,88,0
+iRobot,Boston,350,31%,Consumer,Post-IPO,$30,1/29/2024,31,1
+TechCrunch,SF Bay Area,7,,Media,Acquired,,1/30/2024,7,0
+Aurora Solar,SF Bay Area,111,20%,Energy,Series D,$523,1/30/2024,20,1
+Block,SF Bay Area,1000,10%,Finance,Post-IPO,$150,1/30/2024,10,1
+PayPal,SF Bay Area,2500,9%,Finance,Post-IPO,$216,1/30/2024,9,1
+Procore,Santa Barbara,,4%,Construction,Post-IPO,$654,1/30/2024,4,1
+Thinx,New York City,95,,Retail,Acquired,$26,1/31/2024,95,0
+CircleCI,SF Bay Area,100,,Product,Series F,$315,1/31/2024,100,0
+Trove Recommerce,SF Bay Area,130,,Retail,Series E,$152,1/31/2024,130,0
+Proofpoint,SF Bay Area,280,6%,Security,Acquired,$885,1/31/2024,6,1
+The Messenger,Miami,,100%,Media,Unknown,,1/31/2024,100,1
+Zuora,SF Bay Area,,8%,Finance,Post-IPO,$647,1/31/2024,8,1
+Illumina,San Diego,111,,Healthcare,Post-IPO,$28,2/1/2024,111,0
+Zoom,SF Bay Area,150,2%,Other,Post-IPO,$276,2/1/2024,2,1
+Okta,SF Bay Area,400,7%,Security,Post-IPO,"$1,200",2/1/2024,7,1
+Cue Health,San Diego,245,30%,Healthcare,Post-IPO,$899,2/2/2024,30,1
+Impact.com,Los Angeles,40,3%,Sales,Private Equity,$361,2/5/2024,3,1
+BillGO,Fort Collins,80,,Finance,Series B,$119,2/5/2024,80,0
+Drizly,Boston,168,100%,Retail,Acquired,$119,2/5/2024,100,1
+Snap,Los Angeles,500,10%,Consumer,Post-IPO,"$4,900",2/5/2024,10,1
+Astrate Medical,Philadelphia,,100%,Healthcare,Series A,$13,2/5/2024,100,1
+Amazon,Seattle,400,,Retail,Post-IPO,$108,2/6/2024,400,0
+DocuSign,SF Bay Area,440,6%,Sales,Post-IPO,$536,2/6/2024,6,1
+Fireblocks,New York City,20,3%,Crypto,Series E,"$1,000",2/7/2024,3,1
+Grammarly,SF Bay Area,230,,Consumer,Unknown,$400,2/7/2024,230,0
+Tenable,Baltimore,,5%,Security,Post-IPO,$565,2/7/2024,5,1
+Pure Storage,SF Bay Area,275,,Data,Post-IPO,$529,2/8/2024,275,0
+Getaround,SF Bay Area,,30%,Transportation,Post-IPO,$948,2/8/2024,30,1
+Journera,Chicago,,100%,Travel,Series B,$31,2/8/2024,100,1
+SiriusXM,New York City,160,3%,Media,Post-IPO,$525,2/12/2024,3,1
+Riskified,New York City,40,6%,Retail,Post-IPO,$229,2/13/2024,6,1
+Impinj,Seattle,50,10%,Other,Post-IPO,$137,2/13/2024,10,1
+Mozilla,SF Bay Area,60,5%,Consumer,Unknown,$2,2/13/2024,5,1
+Redesign Health,New York City,77,,Healthcare,Unknown,$315,2/13/2024,77,0
+Instacart,SF Bay Area,250,7%,Food,Post-IPO,"$2,900",2/13/2024,7,1
+Cisco,SF Bay Area,4250,5%,Infrastructure,Post-IPO,$2,2/14/2024,5,1
+Away,New York City,,25%,Retail,Series D,$181,2/14/2024,25,1
+Gro Intelligence,New York City,20,10%,Food,Series B,$118,2/15/2024,10,1
+LinkSquares,Boston,90,,Legal,Series C,$161,2/15/2024,90,0
+Sonder,SF Bay Area,106,17%,Travel,Post-IPO,$839,2/15/2024,17,1
+Toast,Boston,550,10%,Food,Post-IPO,$962,2/15/2024,10,1
+CodeSee,SF Bay Area,,100%,Data,Seed,$10,2/15/2024,100,1
+May Mobility,Ann Arbor,,13%,Transportation,Series D,$303,2/15/2024,13,1
+Voi,"Stockholm,Non-U.S.",120,12%,Transportation,Series D,$515,2/16/2024,12,1
+Meati,Boulder,,30%,Food,Series C,$274,2/20/2024,30,1
+Affirm,Pittsburgh,60,,Finance,Post-IPO,"$1,500",2/21/2024,60,0
+BuzzFeed,New York City,,16%,Media,Post-IPO,$696,2/21/2024,16,1
+Rivian,Detroit,,10%,Transportation,Post-IPO,"$10,700",2/21/2024,10,1
+Carbon Health,SF Bay Area,56,,Healthcare,Series D,$522,2/23/2024,56,0
+Redesign Health,New York City,77,,Healthcare,Series C,$315,2/23/2024,77,0
+Expedia,Seattle,1500,8%,Travel,Post-IPO,"$3,300",2/26/2024,8,1
+Bumble,Austin,350,30%,Consumer,Post-IPO,$313,2/27/2024,30,1
+Sony Interactive,SF Bay Area,900,8%,Consumer,Subsidiary,,2/27/2024,8,1
+Treasury Prime,SF Bay Area,40,40%,Finance,Series C,$71,2/28/2024,40,1
+Vacasa,Portland,320,5%,Travel,Post-IPO,$834,2/28/2024,5,1
+Electronic Arts,SF Bay Area,670,5%,Consumer,Post-IPO,$2,2/28/2024,5,1
+Motional,Boston,,5%,Transportation,Unknown,,2/28/2024,5,1
+Fisker,Los Angeles,,15%,Transportation,Post-IPO,"$1,700",2/29/2024,15,1
+Gro Intelligence,New York City,90,60%,Food,Series B,$118,3/1/2024,60,1
+Project Ronin,SF Bay Area,150,100%,Healthcare,Unknown,,3/1/2024,100,1
+Melio,New York City,40,7%,Finance,Series D,$504,3/4/2024,7,1
+Our Next Energy,Detroit,40,13%,Transportation,Series B,$390,3/4/2024,13,1
+Edgio,Phoenix,80,10%,Infrastructure,Post-IPO,$462,3/4/2024,10,1
+Sorare,New York City,22,13%,Crypto,Series B,$739,3/6/2024,13,1
+Turnitin,SF Bay Area,15,2%,Education,Acquired,,3/7/2024,2,1
+Niche,Pittsburgh,24,7%,Education,Series C,$44,3/8/2024,7,1
+Inscribe,SF Bay Area,,40%,Finance,Series B,$39,3/8/2024,40,1
+Deadspin,New York City,11,100%,Media,Acquired,,3/11/2024,100,1
+Phantom Auto,SF Bay Area,100,100%,Transportation,Unknown,$86,3/12/2024,100,1
+Stash,New York City,80,25%,Finance,Unknown,$480,3/13/2024,25,1
+Textio,Seattle,14,16%,Recruiting,Unknown,$42,3/14/2024,16,1
+Ancestry,Lehi,81,6%,Consumer,Post-IPO,$33,3/14/2024,6,1
+Chipper Cash,SF Bay Area,20,,Finance,Series C,$302,3/15/2024,20,0
+Blueboard,SF Bay Area,,100%,HR,Series A,$16,3/15/2024,100,1
+Flock Freight,San Diego,54,,Logistics,Series D,$399,3/16/2024,54,0
+Singular Genomics,San Diego,,20%,Healthcare,Post-IPO,$176,3/19/2024,20,1
+Dell,Austin,6000,5%,Hardware,Post-IPO,,3/25/2024,5,1
+Synctera,SF Bay Area,17,15%,Finance,Series A,$79,3/26/2024,15,1
+GoPro,SF Bay Area,,4%,Consumer,Post-IPO,$288,3/26/2024,4,1
+ChowNow,Los Angeles,60,20%,Food,Series C,$64,3/28/2024,20,1
+Osso VR,SF Bay Area,67,,Healthcare,Series C,$109,4/1/2024,67,0
+Ranger Insurance,New York City,,100%,Finance,Seed,$5,4/1/2024,100,1
+Rezi,New York City,,100%,Real Estate,Series B,$230,4/1/2024,100,1
+Vivian Health,SF Bay Area,13,,Healthcare,Acquired,$60,4/3/2024,13,0
+Ghost Autonomy,SF Bay Area,100,100%,Transportation,Series E,$247,4/3/2024,100,1
+Yummly,SF Bay Area,,100%,Food,Acquired,$24,4/3/2024,100,1
+Apple,SF Bay Area,614,,Hardware,Post-IPO,"$1,200",4/4/2024,614,0
+Singularity 6,Los Angeles,49,35%,Other,Series B,$49,4/8/2024,35,1
+Intel,SF Bay Area,62,,Hardware,Post-IPO,$12,4/9/2024,62,0
+Checkr,SF Bay Area,382,32%,HR,Series D,$679,4/9/2024,32,1
+Fabric,New York City,30,15%,Logistics,Series C,$336,4/11/2024,15,1
+Hinge Health,SF Bay Area,,10%,Healthcare,Series E,$826,4/11/2024,10,1
+Tesla,Austin,14000,10%,Transportation,Post-IPO,"$20,200",4/15/2024,10,1
+Tome,SF Bay Area,12,25%,AI,Series B,$75,4/16/2024,25,1
+Take-Two,New York City,579,5%,Consumer,Post-IPO,"$4,100",4/16/2024,5,1
+Rivian,Detroit,,1%,Transportation,Post-IPO,"$10,700",4/17/2024,1,1
+Pax8,Denver,,5%,Infrastructure,Unknown,$400,4/18/2024,5,1
+OutSystems,Boston,150,8%,Product,Series G,$802,4/19/2024,8,1
+Freenome,SF Bay Area,100,20%,Healthcare,Series E,"$1,400",4/23/2024,20,1
+True Anomaly,Denver,30,25%,Aerospace,Series B,$158,4/25/2024,25,1
+ComplYant,Los Angeles,,100%,Finance,Seed,$6,4/29/2024,100,1
+Tesla,Austin,500,,Transportation,Post-IPO,"$20,200",4/30/2024,500,0
+Akili Interactive,Boston,,46%,Healthcare,Post-IPO,$271,4/30/2024,46,1
+Assurance,Seattle,112,100%,Finance,Acquired,,5/1/2024,100,1
+Google,SF Bay Area,200,,Consumer,Post-IPO,$26,5/1/2024,200,0
+Sproutt,Hartford,,100%,Finance,Series B,$38,5/1/2024,100,1
+Peloton,New York City,400,15%,Fitness,Post-IPO,"$1,900",5/2/2024,15,1
+Bakkt,Atlanta,28,,Crypto,Post-IPO,$932,5/3/2024,28,0
+Sprinklr,New York City,116,3%,Support,Post-IPO,$429,5/3/2024,3,1
+Luminar,Orlando,140,20%,Transportation,Post-IPO,$780,5/3/2024,20,1
+Rivian,Los Angeles,150,,Transportation,Post-IPO,"$10,700",5/3/2024,150,0
+Cue Health,San Diego,230,49%,Healthcare,Post-IPO,$899,5/3/2024,49,1
+Enovix,SF Bay Area,170,33%,Energy,Post-IPO,$516,5/6/2024,33,1
+Arkane Studios,Austin,96,100%,Consumer,Unknown,,5/8/2024,100,1
+Brilliant,SF Bay Area,,100%,Hardware,Series B,$64,5/8/2024,100,1
+Vacasa,Portland,800,13%,Travel,Post-IPO,$834,5/9/2024,13,1
+Google,SF Bay Area,57,,Consumer,Post-IPO,$26,5/10/2024,57,0
+Rivian,Los Angeles,120,,Transportation,Post-IPO,"$10,700",5/10/2024,120,0
+Motional,Pittsburgh,550,40%,Transportation,Unknown,,5/10/2024,40,1
+Indeed,Austin,1000,8%,HR,Acquired,$5,5/13/2024,8,1
+Mainvest,Boston,,100%,Finance,Unknown,$3,5/14/2024,100,1
+Singularity 6,Los Angeles,36,,Other,Series B,$49,5/15/2024,36,0
+Atmosphere,Austin,100,,Other,Series D,$214,5/15/2024,100,0
+Replit,SF Bay Area,30,20%,Product,Unknown,$222,5/16/2024,20,1
+Gopuff,Philadelphia,,6%,Food,Series H,"$3,400",5/16/2024,6,1
+SeekOut,Seattle,,30%,Recruiting,Series C,,5/16/2024,30,1
+Joonko,New York City,,100%,HR,Series B,$38,5/19/2024,100,1
+TikTok,Los Angeles,1000,,Consumer,Acquired,,5/21/2024,1000,0
+Cue Health,San Diego,180,100%,Healthcare,Post-IPO,$899,5/22/2024,100,1
+Guild,Denver,300,25%,Education,Series F,$643,5/22/2024,25,1
+Silo,SF Bay Area,,30%,Food,Series C,$272,5/22/2024,30,1
+Foursquare,New York City,105,25%,Marketing,Series G,$390,5/23/2024,25,1
+Lucid Motors,SF Bay Area,400,6%,Transportation,Post-IPO,"$8,300",5/24/2024,6,1
+Walnut,New York City,15,20%,Sales,Series B,$56,5/29/2024,20,1
+ICANN,Los Angeles,33,7%,Infrastructure,Unknown,,5/30/2024,7,1
+FlightStats,Portland,73,,Travel,Acquired,$3,5/30/2024,73,0
+Tropic,New York City,40,,Finance,Series B,$67,5/31/2024,40,0
+Google,SF Bay Area,100,,Consumer,Post-IPO,$26,5/31/2024,100,0
+Gro Intelligence,New York City,,10%,Food,Series B,$118,5/31/2024,10,1
+Microsoft,Seattle,1000,,Other,Post-IPO,$1,6/3/2024,1000,0
+MoonPay,Dover,30,10%,Crypto,Unknown,$651,6/5/2024,10,1
+Yext,New York City,,12%,Marketing,Post-IPO,$117,6/5/2024,12,1
+Revel,New York City,1000,,Transportation,Unknown,$214,6/6/2024,1000,0
+Paxos,New York City,65,20%,Crypto,Unknown,$543,6/12/2024,20,1
+SCiFi Foods,SF Bay Area,,100%,Food,Series A,$39,6/12/2024,100,1
+VRChat,SF Bay Area,,30%,Consumer,Series D,$95,6/12/2024,30,1
+Cypress.io,Atlanta,11,,Product,Series B,$54,6/14/2024,11,0
+Care/of,New York City,143,100%,Healthcare,Acquired,$83,6/15/2024,100,1
+Running Tide,Portland,,100%,Energy,Series B,$54,6/15/2024,100,1
+LOOP,Austin,23,77%,Finance,Series A,$34,6/16/2024,77,1
+Chegg,SF Bay Area,441,23%,Education,Post-IPO,$227,6/17/2024,23,1
+Stackpath,Dallas,,100%,Infrastructure,Series B,$396,6/17/2024,100,1
+Unit,New York City,,15%,Finance,Series C,$170,6/17/2024,15,1
+C2FO,Kansas City,16,,Finance,Series H,$537,6/18/2024,16,0
+Wex,Portland,375,5%,Finance,Post-IPO,$400,6/18/2024,5,1
+Fisker,Los Angeles,,100%,Transportation,Post-IPO,"$1,700",6/18/2024,100,1
+Ginkgo Bioworks,Boston,400,35%,Healthcare,Post-IPO,"$1,600",6/20/2024,35,1
+Moxion Power,SF Bay Area,101,,Energy,Unknown,$124,6/26/2024,101,0
+Planet,SF Bay Area,180,17%,Aerospace,Post-IPO,$574,6/26/2024,17,1
+RealPage,Dallas,260,4%,Real Estate,Acquired,$105,6/27/2024,4,1
+Priceline,Norwalk,103,7%,Travel,Acquired,$77,6/28/2024,7,1
+Upside Foods,SF Bay Area,26,,Food,Unknown,$598,7/1/2024,26,0
+UKG,Boston,2200,14%,HR,Unknown,,7/3/2024,14,1
+UIPath,New York City,420,10%,Other,Post-IPO,"$2,000",7/9/2024,10,1
+Redbox,Chicago,1000,100%,Media,Acquired,$51,7/10/2024,100,1
+Intuit,SF Bay Area,1800,10%,Finance,Post-IPO,$18,7/10/2024,10,1
+CyberProof,Los Angeles,,7%,Security,Subsidiary,,7/10/2024,7,1
+Salesforce,SF Bay Area,300,,Sales,Post-IPO,$65,7/15/2024,300,0
+ON,SF Bay Area,60,100%,Retail,Unknown,$81,7/16/2024,100,1
+Aqua Security,Boston,50,10%,Security,Series E,$325,7/17/2024,10,1
+Magic Leap,Miami,75,,Consumer,Series E,"$4,100",7/19/2024,75,0
+Mercari U.S.,SF Bay Area,,50%,Retail,Subsidiary,,7/19/2024,50,1
+Humble Games,SF Bay Area,36,100%,Media,Acquired,$4,7/23/2024,100,1
+Webflow,SF Bay Area,,8%,Marketing,Series C,$335,7/25/2024,8,1
+Moxion Power,SF Bay Area,248,100%,Energy,Unknown,$124,7/29/2024,100,1
+NerdWallet,SF Bay Area,,15%,Finance,Post-IPO,$105,7/30/2024,15,1
+Bungie,Seattle,220,17%,Consumer,Acquired,$100,7/31/2024,17,1
+Match Group,New York City,,6%,Consumer,Post-IPO,,7/31/2024,6,1
+Avaya,Durham,180,3%,Other,Post-IPO,$700,8/1/2024,3,1
+Intel,SF Bay Area,15000,15%,Hardware,Post-IPO,$12,8/1/2024,15,1
+Jam City,Los Angeles,85,10%,Consumer,Unknown,$652,8/5/2024,10,1
+Axios Media,Washington D.C.,50,10%,Media,Acquired,$57,8/6/2024,10,1
+Teradata,San Diego,,13%,Data,Post-IPO,,8/6/2024,13,1
+Eventbrite,SF Bay Area,100,11%,Consumer,Post-IPO,$557,8/7/2024,11,1
+LegalZoom,Los Angeles,,15%,Legal,Post-IPO,$952,8/7/2024,15,1
+Submittable,Missoula,40,,Other,Unknown,$115,8/8/2024,40,0
+Fastly,SF Bay Area,,11%,Infrastructure,Post-IPO,$219,8/8/2024,11,1
+iCIMS,Holmdel,69,,Recruiting,Acquired,$93,8/9/2024,69,0
+Branch.io,SF Bay Area,100,,Marketing,Series F,$667,8/9/2024,100,0
+Cisco,SF Bay Area,5600,7%,Infrastructure,Post-IPO,$2,8/9/2024,7,1
+Tally,SF Bay Area,,100%,Finance,Series C,$172,8/12/2024,100,1
+Grail,SF Bay Area,350,,Healthcare,Post-IPO,,8/13/2024,350,0
+DayTwo,SF Bay Area,,100%,Healthcare,Series B,$90,8/13/2024,100,1
+Sonos,Santa Barbara,100,6%,Consumer,Post-IPO,$455,8/14/2024,6,1
+AppLovin,SF Bay Area,61,,Marketing,Post-IPO,"$1,600",8/15/2024,61,0
+Retention.com,Austin,15,,Marketing,Unknown,,8/16/2024,15,0
+Regrow Ag,Durham,,19%,Food,Series B,$64,8/16/2024,19,1
+GoPro,SF Bay Area,139,15%,Consumer,Post-IPO,$288,8/19/2024,15,1
+Five9,SF Bay Area,190,7%,Support,Post-IPO,$862,8/20/2024,7,1
+Kaiyo,New York City,,100%,Retail,Series B,$43,8/21/2024,100,1
+Redfin,Seattle,82,2%,Real Estate,Post-IPO,$320,8/22/2024,2,1
+Received,New York City,,100%,Finance,Unknown,,8/23/2024,100,1
+Velo3D,SF Bay Area,42,,Manufacturing,Post-IPO,$305,8/26/2024,42,0
+Tome Biosciences,Boston,131,100%,Healthcare,Series A,$213,8/26/2024,100,1
+Apple,SF Bay Area,100,,Hardware,Post-IPO,"$1,200",8/27/2024,100,0
+Brave,SF Bay Area,27,14%,Consumer,Series B,$42,8/28/2024,14,1
+Character.ai,SF Bay Area,6,5%,AI,Series A,$150,8/29/2024,5,1
+Lyft,SF Bay Area,30,1%,Transportation,Post-IPO,"$4,900",9/4/2024,1,1
+Fly.io,Chicago,40,,Infrastructure,Series C,$110,9/4/2024,40,0
+ChargePoint,SF Bay Area,250,15%,Manufacturing,Unknown,"$1,400",9/4/2024,15,1
+Goop,Los Angeles,39,18%,Retail,Unknown,$75,9/6/2024,18,1
+Motif Foodworks,Boston,,100%,Food,Unknown,$343,9/6/2024,100,1
+Center,Seattle,8,4%,Finance,Series C,$102,9/7/2024,4,1
+Nori,Seattle,,100%,Energy,Unknown,$19,9/9/2024,100,1
+Udemy,SF Bay Area,280,,Education,Post-IPO,$311,9/11/2024,280,0
+Microsoft,Seattle,650,,Other,Post-IPO,$1,9/12/2024,650,0
+Amperity,Seattle,,13%,Marketing,Series D,$187,9/12/2024,13,1
+Reverb,Chicago,40,,Retail,Acquired,$47,9/20/2024,40,0
+Luminar,Orlando,,15%,Transportation,Post-IPO,$780,9/20/2024,15,1
+Notable Labs,SF Bay Area,,65%,Healthcare,Series B,,9/20/2024,65,1
+Healthy.io,"Tel Aviv,Non-U.S.",40,30%,Healthcare,Series D,$185,9/22/2024,30,1
+Olo,New York City,,9%,Food,Post-IPO,$184,9/23/2024,9,1
+FreightWaves,Chattanooga,16,,Logistics,Private Equity,$92,9/24/2024,16,0
+Moov,Cedar Falls,50,,Finance,Series B,$77,9/25/2024,50,0
+Drata,San Diego,40,9%,Security,Series C,$328,9/26/2024,9,1
+Marin Software,SF Bay Area,27,26%,Marketing,Post-IPO,$99,9/30/2024,26,1
+Tome,SF Bay Area,12,31%,Sales,Series B,$75,10/2/2024,31,1
+Alma,New York City,,9%,Healthcare,Series D,$220,10/2/2024,9,1
+Flexport,SF Bay Area,,2%,Logistics,Series E,"$2,400",10/2/2024,2,1
+AppLovin,SF Bay Area,65,,Marketing,Post-IPO,"$1,600",10/3/2024,65,0
+PubMatic,SF Bay Area,12,1%,Marketing,Post-IPO,$63,10/7/2024,1,1
+Eaze,SF Bay Area,500,100%,Consumer,Series D,$202,10/7/2024,100,1
+Zapata Computing,Boston,,100%,Other,Post-IPO,$82,10/7/2024,100,1
+Grabango,SF Bay Area,,100%,Food,Unknown,$94,10/9/2024,100,1
+CareerBuilder + Monster,Chicago,200,15%,Recruiting,Acquired,,10/10/2024,15,1
+GoWild,Louisville,,100%,Retail,Seed,$8,10/10/2024,100,1
+Nikola,Phoenix,130,15%,Transportation,Post-IPO,"$3,300",10/11/2024,15,1
+AppLovin,SF Bay Area,58,,Marketing,Post-IPO,"$1,600",10/15/2024,58,0
+Gigamon,SF Bay Area,69,,Data,Acquired,$23,10/15/2024,69,0
+Fable,New York City,,100%,Product,Series A,$19,10/15/2024,100,1
+CapWay,Atlanta,,100%,Finance,Unknown,,10/17/2024,100,1
+Venminder,Louisville,100,,Security,Acquired,$49,10/21/2024,100,0
+Upwork,SF Bay Area,,21%,Other,Post-IPO,$168,10/23/2024,21,1
+Coursera,SF Bay Area,150,10%,Education,Post-IPO,$458,10/25/2024,10,1
+Kyte,SF Bay Area,,40%,Transportation,Unknown,$548,10/25/2024,40,1
+F5,Seattle,100,2%,Security,Post-IPO,,10/29/2024,2,1
+ConsenSys,New York City,163,20%,Crypto,Series D,$726,10/29/2024,20,1
+Docker,SF Bay Area,,10%,Infrastructure,Series C,$436,10/29/2024,10,1
+dYdX,SF Bay Area,,35%,Crypto,Series C,$87,10/29/2024,35,1
+Miro,SF Bay Area,275,18%,Other,Series C,$476,10/30/2024,18,1
+Kraken,SF Bay Area,400,15%,Crypto,Unknown,$134,10/30/2024,15,1
+Dropbox,SF Bay Area,527,20%,Other,Post-IPO,"$1,700",10/30/2024,20,1
+Maven Clinic,New York City,60,10%,Healthcare,Series F,$417,11/1/2024,10,1
+Bowery Farming,New York City,,100%,Food,Unknown,$626,11/1/2024,100,1
+Mozilla Foundation,SF Bay Area,,30%,Consumer,Subsidiary,$2,11/5/2024,30,1
+Outreach,Seattle,67,9%,Sales,Series G,$489,11/6/2024,9,1
+iRobot,Boston,105,16%,Consumer,Post-IPO,$30,11/6/2024,16,1
+ShareFile,Raleigh,199,,Other,Acquired,,11/7/2024,199,0
+Akamai,Boston,250,2%,Security,Post-IPO,$35,11/7/2024,2,1
+Opendoor,SF Bay Area,300,17%,Real Estate,Post-IPO,"$1,900",11/7/2024,17,1
+Freshworks,SF Bay Area,660,13%,Support,Post-IPO,$484,11/7/2024,13,1
+Monarch Tractor,SF Bay Area,35,10%,Other,Unknown,$214,11/8/2024,10,1
+Exosonic,Los Angeles,,100%,Aerospace,Seed,$4,11/8/2024,100,1
+Sword Health,New York City,13,,Healthcare,Unknown,$450,11/11/2024,13,0
+23andMe,SF Bay Area,200,40%,Healthcare,Post-IPO,"$1,100",11/11/2024,40,1
+Enphase Energy,SF Bay Area,500,17%,Energy,Post-IPO,$116,11/11/2024,17,1
+Lyra Health,SF Bay Area,77,2%,Healthcare,Series F,$910,11/12/2024,2,1
+Forward,SF Bay Area,200,100%,Healthcare,Series E,$325,11/12/2024,100,1
+Chegg,SF Bay Area,319,21%,Education,Post-IPO,$227,11/12/2024,21,1
+AppLovin,SF Bay Area,120,,Marketing,Post-IPO,"$1,600",11/13/2024,120,0
+AMD,SF Bay Area,1000,4%,Hardware,Post-IPO,,11/13/2024,4,1
+Headspace,Los Angeles,,13%,Healthcare,Unknown,$216,11/20/2024,13,1
+LinkedIn,SF Bay Area,202,1%,Recruiting,Acquired,$154,11/21/2024,1,1
+AlphaSense,New York City,150,8%,Other,Series F,"$1,400",11/27/2024,8,1
+Booking Holdings,Norwalk,60,,Travel,Post-IPO,"$2,800",12/4/2024,60,0
+Stash,New York City,88,40%,Finance,Unknown,$480,12/4/2024,40,1
+Circle,Boston,50,6%,Crypto,Private Equity,"$1,100",12/5/2024,6,1
+Mixtroz,Birmingham,,100%,Other,Seed,$2,12/6/2024,100,1
+EasyKnock,New York City,,100%,Real Estate,Series D,$440,12/9/2024,100,1
+Canoo,Los Angeles,20,,Transportation,Post-IPO,$300,12/11/2024,20,0
+Calendly,Atlanta,70,13%,Other,Series B,$351,12/11/2024,13,1
+Foundry,Rochester,74,27%,Crypto,Subsidiary,,12/11/2024,27,1
+OfferUp,Seattle,,22%,Retail,Unknown,$381,12/11/2024,22,1
+Brave Care,Portland,,100%,Healthcare,Series B,$43,12/31/2024,100,1
+Level,New York City,,100%,Finance,Series B,$27,1/2/2025,100,1
+Altruist,SF Bay Area,37,10%,Finance,Series E,$449,1/7/2025,10,1
+Redfin,Seattle,46,,Real Estate,Post-IPO,$320,1/9/2025,46,0
+Icon,Austin,114,,Construction,Series B,$451,1/9/2025,114,0
+Pandion,Seattle,63,100%,Logistics,Series B,$76,1/10/2025,100,1
+Alza,New York City,,100%,Finance,Seed,$7,1/13/2025,100,1
+Advisor Credit Exchange,Philadelphia,,100%,Finance,Unknown,$31,1/14/2025,100,1
+Textio,Seattle,15,,Recruiting,Unknown,$42,1/15/2025,15,0
+AppLovin,SF Bay Area,89,,Marketing,Post-IPO,"$1,600",1/15/2025,89,0
+Aurora Solar,SF Bay Area,58,,Energy,Series D,$523,1/16/2025,58,0
+Stripe,SF Bay Area,300,3%,Finance,Series I,"$8,700",1/21/2025,3,1
+Digital River,Minneapolis,122,,Retail,Private Equity,$50,1/28/2025,122,0
+Placer.ai,SF Bay Area,150,18%,Data,Unknown,$267,1/29/2025,18,1
+Cushion,SF Bay Area,,100%,Finance,Series A,$20,1/30/2025,100,1
+Sure,New York City,70,,Finance,Series C,$123,2/3/2025,70,0
+Salesforce,SF Bay Area,1000,1%,Sales,Post-IPO,$65,2/3/2025,1,1
+Intel,Sacramento,58,,Hardware,Post-IPO,$12,2/4/2025,58,0
+TripAdvisor,Boston,75,,Travel,Post-IPO,$3,2/4/2025,75,0
+AppsFlyer,SF Bay Area,100,7%,Data,Unknown,$293,2/4/2025,7,1
+Asana,SF Bay Area,100,,Other,Post-IPO,$453,2/4/2025,100,0
+Okta,SF Bay Area,180,3%,Security,Post-IPO,"$1,200",2/4/2025,3,1
+Cruise,SF Bay Area,1000,50%,Transportation,Acquired,"$15,000",2/4/2025,50,1
+Hugging Face,New York City,10,4%,AI,Series D,$395,2/5/2025,4,1
+Outbrain,New York City,200,,Marketing,Post-IPO,$394,2/5/2025,200,0
+Sonos,Santa Barbara,200,12%,Consumer,Post-IPO,$455,2/5/2025,12,1
+Workday,SF Bay Area,1750,8%,HR,Post-IPO,$230,2/5/2025,8,1
+Sprinklr,New York City,500,15%,Support,Post-IPO,$429,2/6/2025,15,1
+Justworks,New York City,200,,HR,Unknown,$160,2/10/2025,200,0
+Wise,Tampa Bay,300,,Finance,Post-IPO,$300,2/10/2025,300,0
+Meta,SF Bay Area,3600,5%,Consumer,Post-IPO,"$26,000",2/10/2025,5,1
+Redfin,Seattle,450,,Real Estate,Post-IPO,$320,2/12/2025,450,0
+Blue Origin,Seattle,1000,10%,Aerospace,Unknown,$167,2/13/2025,10,1
+Sophos,"Oxford,Non-U.S.",,6%,Security,Acquired,$125,2/13/2025,6,1
+SeatGeek,New York City,150,15%,Consumer,Series E,$400,2/20/2025,15,1
+Zendesk,SF Bay Area,51,,Support,Acquired,$85,2/21/2025,51,0
+Ibotta,Denver,70,8%,Retail,Post-IPO,$93,2/22/2025,8,1
+Skybox Security,SF Bay Area,300,100%,Security,Private Equity,$335,2/24/2025,100,1
+HerMD,Cincinnati,,100%,Healthcare,Series A,$28,2/24/2025,100,1
+Flywire,Boston,125,,Finance,Series E,$263,2/26/2025,125,0
+Dayforce,"Toronto,Non-U.S.",,5%,HR,Post-IPO,$40,2/26/2025,5,1
+Digimarc,Portland,90,40%,Other,Post-IPO,$105,2/27/2025,40,1
+Autodesk,SF Bay Area,1350,9%,Other,Post-IPO,,2/27/2025,9,1
+Grubhub,SF Bay Area,500,23%,Food,Acquired,$284,2/28/2025,23,1
+HP,SF Bay Area,2000,,Hardware,Post-IPO,,2/28/2025,2000,0
+Rec Room,Seattle,,16%,Consumer,Series F,$294,3/3/2025,16,1
+LiveRamp,SF Bay Area,65,5%,Marketing,Post-IPO,$16,3/5/2025,5,1
+TikTok,"Dublin,Non-U.S.",300,,Consumer,Acquired,,3/6/2025,300,0
+Hewlett Packard Enterprise,SF Bay Area,2500,5%,Hardware,Post-IPO,"$1,400",3/6/2025,5,1
+HelloFresh,SF Bay Area,273,,Food,Post-IPO,$367,3/17/2025,273,0
+Acxiom,Little Rock,130,3%,Marketing,Post-IPO,,3/19/2025,3,1
+Brightcove,Boston,198,33%,Marketing,Acquired,$145,3/19/2025,33,1
+Block,SF Bay Area,931,8%,Finance,Post-IPO,$150,3/25/2025,8,1
+Automattic,SF Bay Area,281,16%,Other,Series E,$986,4/2/2025,16,1
+Five9,SF Bay Area,123,4%,Support,Post-IPO,$862,4/3/2025,4,1
+Marin Software,SF Bay Area,,100%,Marketing,Post-IPO,$99,4/10/2025,100,1
+Smashing,SF Bay Area,7,100%,Consumer,Seed,$3,4/16/2025,100,1
+Turo,SF Bay Area,150,17%,Transportation,Series E,$467,4/16/2025,17,1
+Intel,Sacramento,22000,20%,Hardware,Post-IPO,$12,4/23/2025,20,1
+SambaNova,SF Bay Area,77,15%,AI,Series D,"$1,100",4/25/2025,15,1
+CrowdStrike,SF Bay Area,500,5%,Security,Post-IPO,"$1,200",5/7/2025,5,1
+Match Group,New York City,325,13%,Consumer,Post-IPO,,5/8/2025,13,1
+Chegg,SF Bay Area,248,22%,Education,Post-IPO,$227,5/12/2025,22,1
+Microsoft,Seattle,6000,3%,Other,Post-IPO,$1,5/13/2025,3,1
