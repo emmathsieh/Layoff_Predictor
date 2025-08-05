@@ -8,6 +8,9 @@ from sklearn.metrics import classification_report
 from sklearn.utils import class_weight
 import shap
 import matplotlib.pyplot as plt
+from textblob import TextBlob
+import nltk
+nltk.download('punkt')
 
 # 1. URLs for Google Sheets (export as CSV)
 LAYOFFS_URL = (
@@ -21,70 +24,77 @@ GENAI_URL = (
     "export?format=csv&gid=1764913133"
 )
 
-# 2. Load data
+# 2. Load data (unchanged)
 df_layoffs = pd.read_csv(LAYOFFS_URL)
 df_genai = pd.read_csv(GENAI_URL)
 
-# 3. Standardize company names
+# 3. Standardize company names (unchanged)
 for df in (df_layoffs, df_genai):
     df['Company'] = df['Company'].str.strip().str.upper()
 
-# 4. Parse dates
+# Add sentiment analysis function
+def analyze_sentiment(text):
+    if pd.isna(text) or str(text).strip() == '':
+        return 0  # Neutral for missing/empty reviews
+    analysis = TextBlob(str(text))
+    return analysis.sentiment.polarity  # Range from -1 (negative) to 1 (positive)
+
+# Apply sentiment analysis to the Employee Reviews column
+df_genai['sentiment_score'] = df_genai['Employee Reviews'].apply(analyze_sentiment)
+
+# 4. Parse dates (unchanged)
 df_layoffs['Layoff_Date'] = pd.to_datetime(df_layoffs['Date'])
 df_genai['Adoption_Year'] = pd.to_datetime(df_genai['Year Adopted'], format='%Y')
 
-# 5. Create quarter period columns
+# 5. Create quarter period columns (unchanged)
 df_layoffs['Quarter'] = df_layoffs['Layoff_Date'].dt.to_period('Q')
 df_genai['Quarter'] = df_genai['Adoption_Year'].dt.to_period('Q')
 
-# 6. Group by Company and Quarter, count layoffs per quarter
+# 6. Group by Company and Quarter, count layoffs per quarter (unchanged)
 layoff_counts = df_layoffs.groupby(['Company', 'Quarter']).size().unstack(fill_value=0)
-
-# Make sure columns (quarters) are sorted ascending to respect time order
 layoff_counts = layoff_counts.sort_index(axis=1)
-
-# Calculate 4-quarter rolling sum of layoffs per company (axis=1)
 layoff_history = layoff_counts.rolling(window=4, axis=1).sum()
 layoff_history = layoff_history.stack().rename('layoff_history').reset_index()
 
-# 7. Build GenAI adoption flag - cumulative flag (1 if quarter >= adoption quarter)
+# 7. Build GenAI adoption flag - modified to include sentiment
 def cumulative_adoption_flag(df):
     # For each company, mark quarters at or after first adoption as 1, else 0
-    def flag_func(quarters):
-        min_quarter = quarters.min()
-        return (quarters >= min_quarter).astype(int)
-    return df.groupby('Company').apply(
-        lambda x: x.assign(genai_flag=flag_func(x['Quarter']))
-    ).reset_index(drop=True)
+    # Also keep the sentiment score
+    def flag_func(group):
+        min_quarter = group['Quarter'].min()
+        group['genai_flag'] = (group['Quarter'] >= min_quarter).astype(int)
+        # For quarters before adoption, set sentiment to 0 (neutral)
+        group.loc[group['Quarter'] < min_quarter, 'sentiment_score'] = 0
+        return group
+        
+    return df.groupby('Company').apply(flag_func).reset_index(drop=True)
 
 df_genai_sorted = df_genai.sort_values(['Company', 'Quarter'])
-df_genai_flagged = cumulative_adoption_flag(df_genai_sorted)[['Company', 'Quarter', 'genai_flag']]
+df_genai_flagged = cumulative_adoption_flag(df_genai_sorted)[['Company', 'Quarter', 'genai_flag', 'sentiment_score']]
 
-# 8. Merge features and create target
+# 8. Merge features and create target (unchanged except adding sentiment_score)
 df_merged = (
     layoff_history
     .merge(df_genai_flagged, on=['Company', 'Quarter'], how='left')
-    .fillna({'genai_flag': 0})
+    .fillna({'genai_flag': 0, 'sentiment_score': 0})  # Fill NA sentiment with neutral (0)
 )
 
-# Create target - whether there will be layoffs in the next quarter
+# Create target (unchanged)
 df_merged['layoff_next_qtr'] = (
     df_merged.groupby('Company')['layoff_history']
-    .shift(-1)   # next quarter's layoff count
+    .shift(-1)
     .fillna(0)
-    .gt(0)       # boolean if layoffs occurred
+    .gt(0)
     .astype(int)
 )
 
-# 9. Extract quarter number (1 to 4)
+# 9. Extract quarter number (unchanged)
 df_merged['quarter_num'] = df_merged['Quarter'].dt.quarter.astype(int)
-
-# Encode quarter cyclical features: sin and cos transforms
 df_merged['quarter_sin'] = np.sin(2 * np.pi * df_merged['quarter_num'] / 4)
 df_merged['quarter_cos'] = np.cos(2 * np.pi * df_merged['quarter_num'] / 4)
 
-# 10. Prepare features X and target y
-feature_cols = ['genai_flag', 'layoff_history', 'quarter_sin', 'quarter_cos']
+# 10. Prepare features X and target y - now including sentiment_score
+feature_cols = ['genai_flag', 'layoff_history', 'quarter_sin', 'quarter_cos', 'sentiment_score']
 X = df_merged[feature_cols].values
 y = df_merged['layoff_next_qtr'].values
 
